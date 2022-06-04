@@ -106,9 +106,12 @@
   },
   "active": "99eff87730a490fa",
   "lastOpenFiles": [
-    "README.md.md",
+    "Base/CSS.md",
+    "Base/HTML.md",
+    "Base/TypeScript.md",
     "Base/React.md",
     "Base/JavaScript.md",
+    "README.md",
     "Base/ECMAScript.md",
     "Без названия.md"
   ]

@@ -6,7 +6,43 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "React",
+      "color": {
+        "a": 1,
+        "rgb": 6214643
+      }
+    },
+    {
+      "query": "TypeScript",
+      "color": {
+        "a": 1,
+        "rgb": 3110080
+      }
+    },
+    {
+      "query": "JavaScript",
+      "color": {
+        "a": 1,
+        "rgb": 15718429
+      }
+    },
+    {
+      "query": "HTML",
+      "color": {
+        "a": 1,
+        "rgb": 15027233
+      }
+    },
+    {
+      "query": "CSS",
+      "color": {
+        "a": 1,
+        "rgb": 2510308
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
+  "scale": 1.0000000000000027,
   "close": false
 }
