@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Компонента",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 179
   },
   "right": {
     "id": "7b5f879a9d0e5f0e",
@@ -106,13 +106,15 @@
   },
   "active": "99eff87730a490fa",
   "lastOpenFiles": [
-    "Base/CSS.md",
-    "Base/HTML.md",
-    "Base/TypeScript.md",
-    "Base/React.md",
-    "Base/JavaScript.md",
-    "README.md",
+    "Base/ReactDOM.md",
+    "Base/createPortal().md",
+    "Base/findDOMNode().md",
     "Base/ECMAScript.md",
-    "Без названия.md"
+    "Base/CSS.md",
+    "Base/React.md",
+    "Base/hydrate().md",
+    "Base/unmountComponentAtNode().md",
+    "Base/render().md",
+    "Base/TypeScript.md"
   ]
 }
