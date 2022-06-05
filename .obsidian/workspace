@@ -49,7 +49,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 179
+    "width": 179,
+    "collapsed": true
   },
   "right": {
     "id": "7b5f879a9d0e5f0e",
@@ -71,7 +72,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -106,15 +107,15 @@
   },
   "active": "99eff87730a490fa",
   "lastOpenFiles": [
-    "Base/ReactDOM.md",
-    "Base/createPortal().md",
-    "Base/findDOMNode().md",
-    "Base/ECMAScript.md",
-    "Base/CSS.md",
+    "pop/push, shift/push-pop unshift-shift.md",
+    "Base/Массивы.md",
+    "Daily/2022-06-05.md",
+    "Base/TypeScript.md",
     "Base/React.md",
-    "Base/hydrate().md",
-    "Base/unmountComponentAtNode().md",
+    "Base/JavaScript.md",
+    "Base/ReactDOM.md",
     "Base/render().md",
-    "Base/TypeScript.md"
+    "Base/hydrate().md",
+    "Base/HTML.md"
   ]
 }
