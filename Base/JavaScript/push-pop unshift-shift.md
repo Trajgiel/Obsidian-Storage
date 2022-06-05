@@ -1,5 +1,5 @@
 2022-06-05 12:25
-Tags: #
+Tags: #JavaScript
 __
 # push-pop unshift-shift
 
@@ -33,4 +33,4 @@ arr.shift() // [2,3,4,5]
 
 __
 ### Links
-[[Массивы]]
+[[Методы массива]]

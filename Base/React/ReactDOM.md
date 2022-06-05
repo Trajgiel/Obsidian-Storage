@@ -1,5 +1,5 @@
 2022-06-04 23:56
-Tags: #
+Tags: #React
 __
 # ReactDOM
 Когда вы загружаете React с помощью тега `<script>`, глобальный `ReactDOM` предоставляет вам доступ к высокоуровневым API-методам. Если вы используете ES6 с npm, можете написать `import ReactDOM from 'react-dom'`, а в случае ES5 с npm — `var ReactDOM = require('react-dom')`.

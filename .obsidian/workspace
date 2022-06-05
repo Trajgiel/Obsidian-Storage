@@ -36,8 +36,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Компонента",
-                "matchingCase": false,
+                "query": "tag:#JavaScript",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -49,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 179,
-    "collapsed": true
+    "width": 216
   },
   "right": {
     "id": "7b5f879a9d0e5f0e",
@@ -107,15 +106,15 @@
   },
   "active": "99eff87730a490fa",
   "lastOpenFiles": [
-    "pop/push, shift/push-pop unshift-shift.md",
-    "Base/Массивы.md",
-    "Daily/2022-06-05.md",
-    "Base/TypeScript.md",
-    "Base/React.md",
-    "Base/JavaScript.md",
-    "Base/ReactDOM.md",
-    "Base/render().md",
-    "Base/hydrate().md",
-    "Base/HTML.md"
+    "Base/TypeScript/TypeScript.md",
+    "Base/React/unmountComponentAtNode().md",
+    "Base/React/render().md",
+    "Base/React/ReactDOM.md",
+    "Base/React/React.Component.md",
+    "Base/React/React.md",
+    "Base/React/props.md",
+    "Base/React/hydrate().md",
+    "Base/React/findDOMNode().md",
+    "Base/React/createPortal().md"
   ]
 }
