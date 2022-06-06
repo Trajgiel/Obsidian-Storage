@@ -106,15 +106,15 @@
   },
   "active": "99eff87730a490fa",
   "lastOpenFiles": [
-    "Base/TypeScript/TypeScript.md",
-    "Base/React/unmountComponentAtNode().md",
-    "Base/React/render().md",
-    "Base/React/ReactDOM.md",
-    "Base/React/React.Component.md",
-    "Base/React/React.md",
-    "Base/React/props.md",
-    "Base/React/hydrate().md",
-    "Base/React/findDOMNode().md",
-    "Base/React/createPortal().md"
+    "Base/JavaScript/ECMAScript.md",
+    "Base/JavaScript/Методы массива.md",
+    "Daily/2022-06-06.md",
+    "Base/split() join().md",
+    "Base/JavaScript/reverse().md",
+    "Base/JavaScript/sort().md",
+    "Base/JavaScript/map().md",
+    "Base/JavaScript/find() findIndex().md",
+    "Base/JavaScript/filter().md",
+    "Base/JavaScript/unshift(...) shift().md"
   ]
 }

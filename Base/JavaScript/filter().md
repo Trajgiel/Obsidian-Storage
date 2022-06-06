@@ -1,15 +1,10 @@
-2022-06-05 12:46
-Tags: #JavaScript
+2022-06-05 20:31
+Tags: #JavaScript #Array
 __
-# filter() find()
-Ищет элементы массива с определённым условием.
-
-Метод `find` ищет один (первый попавшийся) элемент, на котором функция-колбэк вернёт `true`.
-
+# filter()
 На тот случай, если найденных элементов может быть много, предусмотрен метод `arr.filter(fn)`.
 
 Синтаксис этого метода схож с `find`, но `filter` возвращает массив из всех подходящих элементов:
-
 ```js
 let results = arr.filter(function(item, index, array) {
 //item - элемент массива
@@ -20,7 +15,6 @@ let results = arr.filter(function(item, index, array) {
 ```
 
 Например:
-
 ```js
 let users = [
 	{id: 1, name: "Вася"},

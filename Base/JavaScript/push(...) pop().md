@@ -1,7 +1,7 @@
 2022-06-05 12:25
-Tags: #JavaScript
+Tags: #JavaScript #Array
 __
-# push-pop unshift-shift
+# push(...) pop()
 
 ### arr.push(...)
 Добавить элемент в конец массива
@@ -15,20 +15,6 @@ arr.push(6) // [1,2,3,4,5,6]
 ```js
 let arr = [1,2,3,4,5];
 arr.pop() // [1,2,3,4]
-```
-
-### arr.unshift(...)
-Добавить элемент в начало массива
-```js
-let arr = [1,2,3,4,5];
-arr.unshift(0) // [0,1,2,3,4,5]
-```
-
-### arr.shift()
-Уберает элемент из начала массива
-```js
-let arr = [1,2,3,4,5];
-arr.shift() // [2,3,4,5]
 ```
 
 __
