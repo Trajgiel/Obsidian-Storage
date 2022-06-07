@@ -106,15 +106,15 @@
   },
   "active": "99eff87730a490fa",
   "lastOpenFiles": [
-    "Base/JavaScript/ECMAScript.md",
+    "Base/Single Page Application.md",
+    "Base/Функции.md",
+    "Base/Side Effect.md",
     "Base/JavaScript/Методы массива.md",
-    "Daily/2022-06-06.md",
-    "Base/split() join().md",
-    "Base/JavaScript/reverse().md",
-    "Base/JavaScript/sort().md",
-    "Base/JavaScript/map().md",
-    "Base/JavaScript/find() findIndex().md",
-    "Base/JavaScript/filter().md",
-    "Base/JavaScript/unshift(...) shift().md"
+    "Base/React/React.md",
+    "Base/JavaScript/JavaScript.md",
+    "Base/React/Компонента.md",
+    "Base/React/React.Component.md",
+    "Base/CSS/CSS.md",
+    "Base/React/ReactDOM.md"
   ]
 }
