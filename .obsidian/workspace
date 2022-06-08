@@ -106,15 +106,15 @@
   },
   "active": "99eff87730a490fa",
   "lastOpenFiles": [
-    "Base/Single Page Application.md",
-    "Base/Функции.md",
-    "Base/Side Effect.md",
-    "Base/JavaScript/Методы массива.md",
-    "Base/React/React.md",
     "Base/JavaScript/JavaScript.md",
+    "Base/React/Обработка событий.md",
+    "Base/React/React.md",
+    "Base/onClick.md",
     "Base/React/Компонента.md",
-    "Base/React/React.Component.md",
-    "Base/CSS/CSS.md",
-    "Base/React/ReactDOM.md"
+    "Base/Функции.md",
+    "Base/Single Page Application.md",
+    "Base/React/useState.md",
+    "Base/React/Хуки.md",
+    "Base/JavaScript/ECMAScript.md"
   ]
 }
