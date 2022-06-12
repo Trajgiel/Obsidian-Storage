@@ -7,8 +7,12 @@
         "id": "99eff87730a490fa",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Base/Ассоциативный массив.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -49,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216
+    "width": 227
   },
   "right": {
     "id": "7b5f879a9d0e5f0e",
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/Ассоциативный массив.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Base/Ассоциативный массив.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,15 +112,15 @@
   },
   "active": "99eff87730a490fa",
   "lastOpenFiles": [
-    "Base/JavaScript/JavaScript.md",
-    "Base/React/Обработка событий.md",
-    "Base/React/React.md",
+    "Base/Ассоциативный массив.md",
+    "Base/JavaScript/Массивы.md",
     "Base/onClick.md",
+    "Base/React/Обработка событий.md",
+    "Base/Деструктурирующее присваивание.md",
+    "Base/React/React.md",
     "Base/React/Компонента.md",
-    "Base/Функции.md",
     "Base/Single Page Application.md",
-    "Base/React/useState.md",
-    "Base/React/Хуки.md",
-    "Base/JavaScript/ECMAScript.md"
+    "Base/JavaScript/JavaScript.md",
+    "Base/Функции.md"
   ]
 }
