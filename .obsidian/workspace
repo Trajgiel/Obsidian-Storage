@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Ассоциативный массив.md",
+            "file": "Base/JavaScript/reduce().md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Ассоциативный массив.md",
+                "file": "Base/JavaScript/reduce().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Ассоциативный массив.md",
+                "file": "Base/JavaScript/reduce().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,15 +112,15 @@
   },
   "active": "99eff87730a490fa",
   "lastOpenFiles": [
-    "Base/Ассоциативный массив.md",
-    "Base/JavaScript/Массивы.md",
-    "Base/onClick.md",
-    "Base/React/Обработка событий.md",
+    "Base/JavaScript/reduce().md",
+    "Base/JavaScript/Методы массива.md",
+    "Base/JavaScript/map().md",
     "Base/Деструктурирующее присваивание.md",
+    "Base/onClick.md",
+    "Base/JavaScript/Ассоциативный массив.md",
+    "Base/JavaScript/Массивы.md",
+    "Base/React/Обработка событий.md",
     "Base/React/React.md",
-    "Base/React/Компонента.md",
-    "Base/Single Page Application.md",
-    "Base/JavaScript/JavaScript.md",
-    "Base/Функции.md"
+    "Base/React/Компонента.md"
   ]
 }
