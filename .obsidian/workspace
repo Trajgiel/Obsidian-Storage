@@ -7,12 +7,8 @@
         "id": "99eff87730a490fa",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Base/JavaScript/reduce().md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/JavaScript/reduce().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/JavaScript/reduce().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,15 +106,15 @@
   },
   "active": "99eff87730a490fa",
   "lastOpenFiles": [
+    "Base/split() join().md",
+    "Base/SQL/Типы данных SQL.md",
+    "Base/SQL/Реляционная база данных.md",
+    "Base/SQL/SQL.md",
     "Base/JavaScript/reduce().md",
     "Base/JavaScript/Методы массива.md",
-    "Base/JavaScript/map().md",
+    "qe.md",
+    "Base/Single Page Application.md",
     "Base/Деструктурирующее присваивание.md",
-    "Base/onClick.md",
-    "Base/JavaScript/Ассоциативный массив.md",
-    "Base/JavaScript/Массивы.md",
-    "Base/React/Обработка событий.md",
-    "Base/React/React.md",
-    "Base/React/Компонента.md"
+    "Base/JavaScript/map().md"
   ]
 }

@@ -45,10 +45,10 @@ students.reduce((acc, cur) => acc + cur.scores, 0)//сумма значений
 students.reduce((acc, cur) => acc.push({...cur, scores: cur.scores + 10}), [])
 //создаём новый массив, пушим элементы, внутри изменяем значение
 ```
-
+[].push()
 ```js
 const NewStudents = students.reduce((acc, cur) => {  
-    acc[cur.id] = {...cur};  //создаём ключ идаём ему значение (новый массив)
+    acc[cur.id] = {...cur};  //создаём ключ и даём ему значение (новый массив)
     delete acc[cur.id].id;  // удаляем id из значения
     return acc; 
 }, {})

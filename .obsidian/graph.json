@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "React",
@@ -18,7 +18,7 @@
       "query": "TypeScript",
       "color": {
         "a": 1,
-        "rgb": 3110080
+        "rgb": 538472
       }
     },
     {
@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 2510308
       }
+    },
+    {
+      "query": "SQL",
+      "color": {
+        "a": 1,
+        "rgb": 3047633
+      }
     }
   ],
   "collapse-display": false,
@@ -53,6 +60,6 @@
   "repelStrength": 11.7594654788419,
   "linkStrength": 1,
   "linkDistance": 251,
-  "scale": 0.6055376880733455,
+  "scale": 0.605537688073346,
   "close": true
 }
