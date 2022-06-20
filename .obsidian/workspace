@@ -7,8 +7,12 @@
         "id": "99eff87730a490fa",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Base/SQL/Типы данных SQL.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/SQL/Типы данных SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Base/SQL/Типы данных SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,8 +112,8 @@
   },
   "active": "99eff87730a490fa",
   "lastOpenFiles": [
-    "Base/split() join().md",
     "Base/SQL/Типы данных SQL.md",
+    "Base/split() join().md",
     "Base/SQL/Реляционная база данных.md",
     "Base/SQL/SQL.md",
     "Base/JavaScript/reduce().md",
