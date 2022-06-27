@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "99eff87730a490fa",
+        "id": "bd215cd0185009a1",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Base/React install.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -49,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227
+    "width": 244
   },
   "right": {
     "id": "7b5f879a9d0e5f0e",
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/React install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Base/React install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -104,17 +110,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "99eff87730a490fa",
+  "active": "bd215cd0185009a1",
   "lastOpenFiles": [
+    "Base/React install.md",
+    "Base/React/React.md",
     "Base/Brainstorm/Управляемый мозговой штурм.md",
-    "Base/Brainstorm/Мозговой штурм.md",
     "Base/Brainstorm/Метод номинальных групп.md",
     "Base/Brainstorm/Перекрёстная намётка идей.md",
+    "Base/Brainstorm/Мозговой штурм.md",
+    "Base/JavaScript/JavaScript.md",
     "Base/Деструктурирующее присваивание.md",
     "Base/SQL/Типы данных SQL.md",
-    "Base/split() join().md",
-    "Base/SQL/Реляционная база данных.md",
-    "Base/SQL/SQL.md",
-    "Base/JavaScript/reduce().md"
+    "Base/split() join().md"
   ]
 }
