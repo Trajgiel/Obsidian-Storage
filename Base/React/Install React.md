@@ -1,7 +1,7 @@
 2022-06-27 13:26
 Tags: #React
 __
-# React install
+# Install
 - Project TS - `npx create-react-app имя --template typescript`
 - StoryBook - `npx storybook` (yarn storybook)
 - GitHub-pages - `yarn add gh-pages --dev` (yarn deploy)
@@ -9,6 +9,8 @@ __
 # React библиотеки
 - uuid - `yarn add uuid @types/uuid` (npm instal uuid @types/uuid)
 - route - `yarn add react-touter-dom @types/react-touter-dom`
+- Material UI - `yarn add @mui/material @emotion/react @emotion/styled`
+- SVG Material icons - `add @mui/icons-material`
 
 __
 ### Links
