@@ -106,15 +106,15 @@
   },
   "active": "bd215cd0185009a1",
   "lastOpenFiles": [
+    "Base/split() join().md",
+    "Base/Redux/Redux.md",
+    "Base/JavaScript/JavaScript.md",
+    "Base/React/React.md",
+    "Base/React/useReduser.md",
+    "Base/React/useState.md",
+    "Base/React/Хуки.md",
     "Base/React/Контейнерная компонента.md",
     "Base/React/Компонента.md",
-    "Base/Презентационная компонента.md",
-    "Base/React/React.md",
-    "Base/React/Context API.md",
-    "Base/React/props.md",
-    "Base/Brainstorm/Управляемый мозговой штурм.md",
-    "Base/Brainstorm/Мозговой штурм.md",
-    "Base/JavaScript/Методы массива.md",
-    "Base/JavaScript/Массивы.md"
+    "Base/Презентационная компонента.md"
   ]
 }
