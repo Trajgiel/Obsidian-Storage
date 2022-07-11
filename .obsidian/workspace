@@ -7,8 +7,12 @@
         "id": "bd215cd0185009a1",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Base/React/React.mem (hoc).md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/React/React.mem (hoc).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Base/React/React.mem (hoc).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,15 +112,15 @@
   },
   "active": "bd215cd0185009a1",
   "lastOpenFiles": [
-    "Base/split() join().md",
-    "Base/Redux/Redux.md",
+    "Base/React/React.mem (hoc).md",
     "Base/JavaScript/JavaScript.md",
     "Base/React/React.md",
+    "Base/React/Install React.md",
+    "Base/Redux/Redux.md",
+    "Base/Redux/reducer.md",
     "Base/React/useReduser.md",
-    "Base/React/useState.md",
+    "Base/React/Context API.md",
     "Base/React/Хуки.md",
-    "Base/React/Контейнерная компонента.md",
-    "Base/React/Компонента.md",
-    "Base/Презентационная компонента.md"
+    "Base/split() join().md"
   ]
 }
