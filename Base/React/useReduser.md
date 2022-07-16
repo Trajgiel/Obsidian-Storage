@@ -6,8 +6,8 @@ __
 const [state, dispatch] = useReducer(reducer, initialArg, init);
 ```
 - state - наш стейт, переменная в которой хранятся данные
-- dispatch - функция которая оправляет в reducer наш action
-- [[reducer]] - функция которая принимает state и action, возвращает новый state
+- dispatch - функция которая оправляет в reducer наш [[action (Action Creators)]]
+- [[reducer]] - функция которая принимает state и [[action (Action Creators)]], возвращает новый state
 - initialArg - первоночальное значение state
 - init - функция которая создаёт начальное состояние лениво, init(initialArg)
 
