@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#JavaScript",
+                "query": "tag:#GitHub",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,15 +106,15 @@
   },
   "active": "bd215cd0185009a1",
   "lastOpenFiles": [
-    "Base/Redux/action (Action Creators).md",
-    "Base/Redux/reducer.md",
-    "Base/React/useReduser.md",
-    "Base/Action Creators.md",
-    "Base/React/Context API.md",
-    "Base/Redux/Redux.md",
-    "Base/React/React.mem (hoc).md",
-    "Base/JavaScript/JavaScript.md",
-    "Base/React/React.md",
-    "Base/React/Install React.md"
+    "Base/GitHub/GitHub-pages.md",
+    "Base/onClick.md",
+    "Base/React/Install React.md",
+    "Base/deploy.md",
+    "Base/JavaScript/sort().md",
+    "Base/JavaScript/reduce().md",
+    "Base/Деструктурирующее присваивание.md",
+    "Base/Функции.md",
+    "Base/React/useParams.md",
+    "Base/React/hook (Хуки).md"
   ]
 }

@@ -1,7 +1,7 @@
 2022-07-11 11:12
 Tags: #React 
 __
-# React.mem (hoc)
+# React.memo (hoc)
 ### High Order Component
 hoc (High Order Component) - компонента высшего порядка.
 Это функция которая на входе принимает одну компоненту, а возвращает другую компоненту.
@@ -16,7 +16,7 @@ let hoc = (Component) => {
 }
 ```
 
-### React.memo
+# React.memo
 React. memo — это компонент высшего порядка (hoc). Не запускает перерисовку компоненты, если props которые приходят в неё, не изменились. 
 ```jsx
 const UsersSecret = (props: {users: Array<string>}) => {  

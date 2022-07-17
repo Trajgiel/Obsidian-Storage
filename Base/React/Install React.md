@@ -4,13 +4,13 @@ __
 # Install
 - Project TS - `npx create-react-app имя --template typescript`
 - StoryBook - `npx storybook` (yarn storybook)
-- GitHub-pages - `yarn add gh-pages --dev` (yarn deploy)
+- [[GitHub-pages]] - `yarn add gh-pages --dev` (yarn deploy)
 
 # React библиотеки
 - uuid - `yarn add uuid @types/uuid` (npm instal uuid @types/uuid)
 - route - `yarn add react-touter-dom @types/react-touter-dom`
 - Material UI - `yarn add @mui/material @emotion/react @emotion/styled`
-- SVG Material icons - `add @mui/icons-material`
+- SVG Material icons - `yarn add @mui/icons-material` / `yarn add @mui/icons-material`
 
 __
 ### Links
