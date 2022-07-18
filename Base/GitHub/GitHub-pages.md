@@ -8,8 +8,10 @@ __
 
 2) добавить в package.json:
 ```tsx
-homepage: "https://ВашЛогин.github.io/НазваниеРеппозитория" 
-        // после строки например "name": ...
+"homepage": "https://Traihel.github.io/ToDoList-TS",
+
+// после строки например "name": ...
+//homepage: "https://ВашЛогин.github.io/НазваниеРеппозитория" 
 ```
 
 3) добавить в package.json в объект "scripts":

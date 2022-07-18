@@ -106,15 +106,15 @@
   },
   "active": "bd215cd0185009a1",
   "lastOpenFiles": [
-    "Base/GitHub/GitHub-pages.md",
-    "Base/onClick.md",
-    "Base/React/Install React.md",
-    "Base/deploy.md",
-    "Base/JavaScript/sort().md",
-    "Base/JavaScript/reduce().md",
-    "Base/Деструктурирующее присваивание.md",
-    "Base/Функции.md",
-    "Base/React/useParams.md",
-    "Base/React/hook (Хуки).md"
+    "Base/Browser/Всплытие.md",
+    "Base/Browser/DOM.md",
+    "Base/Browser/DOMContentLoaded.md",
+    "Files/всплытие.png",
+    "Base/Browser/Погружение.md",
+    "Base/всплытии.md",
+    "Base/JavaScript/JavaScript.md",
+    "Base/React/ReactDOM.md",
+    "Base/React/useReduser.md",
+    "Base/React/useEffect.md"
   ]
 }
