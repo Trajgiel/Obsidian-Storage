@@ -4,7 +4,7 @@ __
 # GitHub-pages
 
 Порядок установки:
-1) `yarn add gh-pages --dev`
+1) yarn add gh-pages
 
 2) добавить в package.json:
 ```tsx

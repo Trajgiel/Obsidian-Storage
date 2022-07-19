@@ -7,4 +7,4 @@ React — [[JavaScript]]-библиотека с открытым исходны
 [[Install React]] - установки и дополнительные библиотеки
 __
 ### Links
-[[hook (Хуки)]] [[Обработка событий]] [[Context API]] [[Redux]] [[React.memo (hoc)]]
+[[hook (Хуки)]] [[Обработка событий]] [[Context API]] [[React.memo (hoc)]]
