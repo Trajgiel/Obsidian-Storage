@@ -106,15 +106,15 @@
   },
   "active": "bd215cd0185009a1",
   "lastOpenFiles": [
+    "Base/try...catch.md",
+    "Base/Single Page Application.md",
+    "Base/JavaScript/«for…in».md",
+    "Base/JavaScript/Объекты.md",
+    "Base/Browser/Event Loop.md",
     "Base/JavaScript/Типы данных.md",
     "Base/Browser/DOM.md",
-    "Base/JavaScript/Объекты.md",
     "Base/JavaScript/JavaScript.md",
     "Base/JavaScript/Ассоциативный массив.md",
-    "Base/JavaScript/Массивы.md",
-    "Base/JavaScript/Функции.md",
-    "Base/[JavaScript.md",
-    "Base/JavaScript/number.md",
-    "Base/try...catch.md"
+    "Base/JavaScript/Массивы.md"
   ]
 }
