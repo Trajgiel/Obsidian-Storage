@@ -7,8 +7,12 @@
         "id": "bd215cd0185009a1",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Base/HTML/HTML.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -49,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 201.5
   },
   "right": {
     "id": "7b5f879a9d0e5f0e",
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/HTML/HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Base/HTML/HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,15 +112,15 @@
   },
   "active": "bd215cd0185009a1",
   "lastOpenFiles": [
-    "Base/try...catch.md",
-    "Base/Single Page Application.md",
-    "Base/JavaScript/«for…in».md",
-    "Base/JavaScript/Объекты.md",
+    "Base/React/Install React.md",
+    "Base/GitHub/GitHub-pages.md",
+    "Base/HTML/HTML.md",
+    "Base/React/React.md",
     "Base/Browser/Event Loop.md",
-    "Base/JavaScript/Типы данных.md",
-    "Base/Browser/DOM.md",
+    "Base/JavaScript/Объекты.md",
+    "Base/JavaScript/«for…in».md",
+    "Base/JavaScript/Функции.md",
     "Base/JavaScript/JavaScript.md",
-    "Base/JavaScript/Ассоциативный массив.md",
-    "Base/JavaScript/Массивы.md"
+    "Base/Функция.md"
   ]
 }
