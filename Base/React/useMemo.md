@@ -1,10 +1,14 @@
 2022-07-17 16:20
-Tags: #React 
+Tags: #React #hook 
 __
 # useMemo
 Возвращает [мемоизированное](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BC%D0%BE%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F) значение.
 
+Выполнит функцию и запомнить ее до тех пор пока переменная не поменяется, если переменная изменилась, то перезапустит функцию еще раз.
+
 ```tsx
+const memoizedValue = useMemo(() => computeExpensiveValue(a, b), [a, b]);
+
 const memoizedValue = useMemo(() => функция, [переменная]);
 ```
 

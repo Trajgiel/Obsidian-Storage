@@ -2,7 +2,7 @@
 Tags: #Redux 
 __
 # reducer
-reducer - это чистая функция которая принимает state, принимает [[action (Action Creators)]], и если нужно применяет этот action к этаму state и возврвщает новый state или возвращает не изменёный state
+reducer - это чистая функция которая принимает state, принимает [[action (Action Creators)|action]], и если нужно применяет этот action к этаму state и возврвщает новый state или возвращает не изменёный state
 
 ```jsx
 function reducer(state, action) {

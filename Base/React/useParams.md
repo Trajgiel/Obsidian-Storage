@@ -1,5 +1,5 @@
 2022-07-09 16:10
-Tags: #React 
+Tags: #React #hook 
 __
 # useParams
 UseParams () - это часть комплекса крючков, связывающих react router dom и useHistory, useLocation и UseRouteMatch.

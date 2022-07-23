@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/HTML/HTML.md",
+            "file": "Base/JavaScript/Функции.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Фун",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/HTML/HTML.md",
+                "file": "Base/JavaScript/Функции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/HTML/HTML.md",
+                "file": "Base/JavaScript/Функции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,15 +112,15 @@
   },
   "active": "bd215cd0185009a1",
   "lastOpenFiles": [
-    "Base/React/Install React.md",
-    "Base/GitHub/GitHub-pages.md",
-    "Base/HTML/HTML.md",
-    "Base/React/React.md",
-    "Base/Browser/Event Loop.md",
-    "Base/JavaScript/Объекты.md",
-    "Base/JavaScript/«for…in».md",
-    "Base/JavaScript/Функции.md",
-    "Base/JavaScript/JavaScript.md",
-    "Base/Функция.md"
+    "Base/React/React.memo.md",
+    "Base/React/hoc.md",
+    "Base/Browser/DOM.md",
+    "Base/Browser/DOMContentLoaded.md",
+    "Base/React/useCallback.md",
+    "Base/React/hook (Хуки).md",
+    "Base/React/useMemo.md",
+    "Base/React/useParams.md",
+    "Base/React/useReduser.md",
+    "Base/React/useState.md"
   ]
 }

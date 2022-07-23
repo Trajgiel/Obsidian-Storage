@@ -34,4 +34,4 @@ const addTaskAC = (id: number, name: string, country: string) => {
 ```
 __
 ### Links
-[[reducer]]
+[[reducer]] [[Redux]]
