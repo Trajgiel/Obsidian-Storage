@@ -7,12 +7,8 @@
         "id": "bd215cd0185009a1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Base/JavaScript/Функции.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Фун",
+                "query": "стек",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/JavaScript/Функции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/JavaScript/Функции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,15 +106,15 @@
   },
   "active": "bd215cd0185009a1",
   "lastOpenFiles": [
-    "Base/React/React.memo.md",
-    "Base/React/hoc.md",
-    "Base/Browser/DOM.md",
-    "Base/Browser/DOMContentLoaded.md",
-    "Base/React/useCallback.md",
-    "Base/React/hook (Хуки).md",
-    "Base/React/useMemo.md",
-    "Base/React/useParams.md",
-    "Base/React/useReduser.md",
-    "Base/React/useState.md"
+    "Base/JavaScript/Структуры данных.md",
+    "Base/JavaScript/Map (ключ-значение).md",
+    "Base/JavaScript/Set (Кол. значений).md",
+    "Base/JavaScript/Объекты.md",
+    "Base/JavaScript/JavaScript.md",
+    "Base/Browser/Event Loop.md",
+    "Base/JavaScript/Связный список.md",
+    "Base/JavaScript/Очередь (Queue).md",
+    "Base/JavaScript/Стек вызовов (Stack).md",
+    "Base/Browser/Всплытие.md"
   ]
 }

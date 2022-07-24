@@ -1,5 +1,5 @@
 2022-07-23 17:18
-Tags: #JavaScript 
+Tags: #JavaScript #class 
 __
 # class
 Нужны для того что-бы создовать однотипные объекты на базе этих классов
@@ -28,6 +28,10 @@ const man1 = new Man('Vova', 28); //создаёт новый объект из 
 
 const renMam1 = man1.render(); //метод render возвращает нужные данные
 ```
+
+- [[new Date()]] - создаёт объект `Date` с текущей датой и временем...
+- new Set() -
+- new Map() -
 
 __
 ### Links
