@@ -7,8 +7,12 @@
         "id": "bd215cd0185009a1",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Base/JavaScript/Структуры данных.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/JavaScript/Структуры данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Base/JavaScript/Структуры данных.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,15 +112,15 @@
   },
   "active": "bd215cd0185009a1",
   "lastOpenFiles": [
-    "Base/JavaScript/Структуры данных.md",
-    "Base/JavaScript/Map (ключ-значение).md",
     "Base/JavaScript/Set (Кол. значений).md",
+    "Base/JavaScript/Структуры данных.md",
+    "Base/GitHub/GitHub-pages.md",
+    "Base/CSS/Flex-box.md",
+    "Base/CSS/CSS.md",
+    "Base/React/Install React.md",
+    "Base/React/React.md",
+    "Base/JavaScript/Map (ключ-значение).md",
     "Base/JavaScript/Объекты.md",
-    "Base/JavaScript/JavaScript.md",
-    "Base/Browser/Event Loop.md",
-    "Base/JavaScript/Связный список.md",
-    "Base/JavaScript/Очередь (Queue).md",
-    "Base/JavaScript/Стек вызовов (Stack).md",
-    "Base/Browser/Всплытие.md"
+    "Base/JavaScript/JavaScript.md"
   ]
 }

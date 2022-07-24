@@ -10,7 +10,7 @@ __
 - uuid - `yarn add uuid @types/uuid` (npm instal uuid @types/uuid)
 - route - `yarn add react-touter-dom @types/react-touter-dom`
 - Material UI - `yarn add @mui/material @emotion/react @emotion/styled`
-- SVG Material icons - `yarn add @mui/icons-material` / `yarn add @mui/icons-material`
+- SVG Material icons - `yarn add @mui/icons-material`
 
 __
 ### Links
