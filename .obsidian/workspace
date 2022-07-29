@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "bd215cd0185009a1",
+        "id": "f8af4c8f4811e713",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/JavaScript/Структуры данных.md",
+            "file": "Base/React/render().md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/JavaScript/Структуры данных.md",
+                "file": "Base/React/render().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/JavaScript/Структуры данных.md",
+                "file": "Base/React/render().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,17 +110,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bd215cd0185009a1",
+  "active": "f8af4c8f4811e713",
   "lastOpenFiles": [
-    "Base/JavaScript/Set (Кол. значений).md",
-    "Base/JavaScript/Структуры данных.md",
-    "Base/GitHub/GitHub-pages.md",
-    "Base/CSS/Flex-box.md",
-    "Base/CSS/CSS.md",
-    "Base/React/Install React.md",
+    "Base/Redux/useDispatch.md",
+    "Base/JavaScript/Методы массива.md",
+    "Base/JavaScript/Типы данных.md",
+    "Base/Redux/useSelector.md",
+    "Base/Redux/Redux.md",
+    "Base/React/hook (Хуки).md",
+    "Base/React/useReduser.md",
+    "Base/Redux/reducer.md",
     "Base/React/React.md",
-    "Base/JavaScript/Map (ключ-значение).md",
-    "Base/JavaScript/Объекты.md",
-    "Base/JavaScript/JavaScript.md"
+    "Base/Redux/action (Action Creators).md"
   ]
 }

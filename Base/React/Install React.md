@@ -11,6 +11,7 @@ __
 - route - `yarn add react-touter-dom @types/react-touter-dom`
 - Material UI - `yarn add @mui/material @emotion/react @emotion/styled`
 - SVG Material icons - `yarn add @mui/icons-material`
+- Redux, React-Redux - `yarn add redux react-redux @types/react-redux`
 
 __
 ### Links
