@@ -2,6 +2,8 @@
 Tags: #Redux
 __
 # Redux
+Redux, React-Redux - `yarn add redux react-redux @types/react-redux`
+
 Redux — библиотека для JavaScript с открытым исходным кодом, предназначенная для управления состоянием приложения. Чаще всего используется в связке с React или Angular для разработки клиентской части. Содержит ряд инструментов, позволяющих значительно упростить передачу данных хранилища через контекст.
 
 Весь код нужно обернуть в тег `Provider`:
@@ -15,18 +17,22 @@ ReactDOM.render(
 ```
 
 Код в отдельном файле `store.ts`
+В redux состояние хранится ЗА ПРЕДЕЛАМИ react-а, то есть НЕ ВНУТРИ компонент. Хранится состояние внутри **store**. Объект **store** будет один, в котором будут в виде вложенных подобъектов хранится разные его части.
+
+Создавая **store**, нужно не забыть передать в него объект со свойствами, и указать, какие редьюсеры отвечают за обработку каждой части.
 ```ts
 const rootReducer = combineReducers({  
     todoList: todolistsReducer,  
     tasks: tasksReducer  
 })  
   
-export type AppRootStoreType = ReturnType<typeof rootReducer>  
+export type AppRootStateType = ReturnType<typeof rootReducer>  
   
-export const store = createStore(rootReducer)
+export const store = legacy_createStore(rootReducer)
 ```
 
-- `combineReducers` - формирует один [[reducer]] из готовых маленьких редьюсеров
+- `combineReducers` - объединяя [[reducer]]-ы, мы задаём структуру нашего единственного 
+   объекта-состояния, формируем один редьюсер из готовых маленьких редьюсеров.
 - `createStore` - создаёт `store` который хронит состояние приложения
 ---
 - [[reducer]] - это чистая функция которая принимает state, принимает action...
