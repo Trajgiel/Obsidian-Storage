@@ -7,8 +7,12 @@
         "id": "f8af4c8f4811e713",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Base/React/Install React.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/React/Install React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Base/React/Install React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,15 +112,15 @@
   },
   "active": "f8af4c8f4811e713",
   "lastOpenFiles": [
-    "Base/Redux/Redux.md",
-    "Base/Redux/reducer.md",
-    "Base/React/Install React.md",
-    "Base/JavaScript/Типы данных.md",
-    "Base/React/hoc.md",
-    "Base/React/hook (Хуки).md",
-    "Base/React/useEffect.md",
-    "Base/Redux/useDispatch.md",
-    "Base/React/Context API.md",
-    "Base/React/React.md"
+    "Base/React/React.md",
+    "Base/JavaScript/JavaScript.md",
+    "Base/JavaScript/class (классы).md",
+    "Base/JavaScript/Структуры данных.md",
+    "Base/JavaScript/Map (ключ-значение).md",
+    "Base/JavaScript/Set (Кол. значений).md",
+    "Base/Browser/Event Loop.md",
+    "Base/JavaScript/Каррирование.md",
+    "Base/JavaScript/Функции.md",
+    "Base/JavaScript/Рекурсия.md"
   ]
 }
