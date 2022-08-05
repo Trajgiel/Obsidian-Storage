@@ -26,6 +26,18 @@ const [значение, функция] = useState(первоначальное
 ```jsx
 setCount(5) // count будет изменен на 5, и перерисован ДОМ
 ```
+
+Если в первоночальное значение передать функцию то она будет выполнена только один раз, при отрисовке.
+```tsx
+function generateDate() {   
+    return 1  
+}
+
+const [count, setCount] = useState(generateDate)
+
+setCount(state => state + 1)
+```
+Если в функции изменению (setCount) поместить колбек, то он будет принимать state.
 __
 ### Links
 [[hook (Хуки)]]

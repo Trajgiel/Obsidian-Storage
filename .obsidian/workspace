@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/React/Install React.md",
-            "mode": "preview",
+            "file": "Base/React/useEffect.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/React/Install React.md",
+                "file": "Base/React/useEffect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/React/Install React.md",
+                "file": "Base/React/useEffect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,15 +112,15 @@
   },
   "active": "f8af4c8f4811e713",
   "lastOpenFiles": [
-    "Base/React/React.md",
-    "Base/JavaScript/JavaScript.md",
-    "Base/JavaScript/class (классы).md",
-    "Base/JavaScript/Структуры данных.md",
-    "Base/JavaScript/Map (ключ-значение).md",
-    "Base/JavaScript/Set (Кол. значений).md",
-    "Base/Browser/Event Loop.md",
-    "Base/JavaScript/Каррирование.md",
+    "Base/React/hook (Хуки).md",
+    "Base/React/useState.md",
+    "Base/React/useEffect.md",
     "Base/JavaScript/Функции.md",
-    "Base/JavaScript/Рекурсия.md"
+    "Base/React/Install React.md",
+    "Base/Redux/Redux.md",
+    "Base/JavaScript/new Promise().md",
+    "Base/JavaScript/Структуры данных.md",
+    "Base/JavaScript/JavaScript.md",
+    "Base/JavaScript/Типы данных.md"
   ]
 }
