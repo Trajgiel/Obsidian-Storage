@@ -6,10 +6,13 @@ React позволяет определять компоненты как кла
 
 ```jsx
 class Component extends React.Component {
-	return (
-		<h1>Привет, {this.props.name}</h1>;
-	)
+	render() {  
+	    return (
+			<h1>Привет, {this.props.name}</h1>;
+		)
+	}
 }
+
 ```
 
 Единственный _обязательный_ метод в подклассе `React.Component` — [`render()`](https://ru.reactjs.org/docs/react-component.html#render). Все остальные методы, описанные ниже, являются необязательными.

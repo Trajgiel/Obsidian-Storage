@@ -1,5 +1,5 @@
 2022-07-23 19:06
-Tags: #React 
+Tags: #React #hoc
 __
 # hoc
 ### High Order Component
@@ -15,9 +15,13 @@ let hoc = (Component) => {
 	return WrapperContainer;
 }
 ```
+---
+[[React.memo]] - не запускает перерисовку компоненты, если props которые приходят в неё, не изменились...
 
-- [[React.memo]] - не запускает перерисовку компоненты, если props...
+---
+connect - 
 
+---
 __
 ### Links
 [[React]]

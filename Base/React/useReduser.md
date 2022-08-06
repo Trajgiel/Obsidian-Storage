@@ -11,7 +11,7 @@ const [state, dispatch] = useReducer(reducer, initialArg, init);
 - initialArg - первоночальное значение state
 - init - функция которая создаёт начальное состояние лениво, init(initialArg)
 
-Альтернатива для [[useState]]. Принимает редюсер типа `(state, action) => newState` и возвращает текущее состояние в паре с методом `dispatch`.
+Альтернатива для useState. Принимает редюсер типа `(state, action) => newState` и возвращает текущее состояние в паре с методом `dispatch`.
 
 Вот пример счётчика, переписанный для использования редюсера:
 ```tsx
