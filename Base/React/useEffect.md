@@ -29,6 +29,20 @@ useEffect(() => {       // выполняется при перваой отри
     ...                 // каждый раз когда зависимость меняется
 }, [counter])
 ```
+---
+Если вернуть код (`return`), то при перезагрузке или закрытии компоненты этот код будет выполнен.
+```tsx
+useEffect( () => {
+	const intervalID = setInterval( () => {
+		console.log('tick')
+	}, 1000)
+	return () => {
+		clearInterval(intervalID)
+	}
+}, [])
+```
+
+
 __
 ### Links
 [[hook (Хуки)]]
