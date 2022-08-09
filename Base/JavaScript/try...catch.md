@@ -7,18 +7,33 @@ __
 
 ```js
 try {
+   // инструкции для выполнения
+}
+
+catch (error) {
+   // будут выполнены, если будет ошибка в блоке try
+}
+
+finally {
+   // инструкции, которые выполняются после завершения блока `try`
+   // выполнение происходит в независимости от того, произошла ошибка или нет
+}]
+```
+
+```js
+try {
    _try_statements_
 }
-[catch (_exception_var_1_ if _condition_1_) { // не стандартно
+catch (_exception_var_1_ if _condition_1_) { // не стандартно
    _catch_statements_1_
-}]
+}
 ...
-[catch (_exception_var_2_) {
+catch (_exception_var_2_) {
    _catch_statements_2_
-}]
-[finally {
+}
+finally {
    _finally_statements_
-}]
+}
 ```
 `try_statements` - инструкции для выполнения.
 `catch_statements_1` - инструкции, будут выполнены, если будет ошибка в блоке `try`.

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/JavaScript/Функции.md",
+            "file": "Base/JavaScript/new Promise().md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/JavaScript/Функции.md",
+                "file": "Base/JavaScript/new Promise().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/JavaScript/Функции.md",
+                "file": "Base/JavaScript/new Promise().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,14 +112,14 @@
   },
   "active": "f8af4c8f4811e713",
   "lastOpenFiles": [
+    "Base/JavaScript/class (классы).md",
     "Base/JavaScript/JavaScript.md",
+    "Base/JavaScript/try...catch.md",
+    "Base/JavaScript/new Promise().md",
+    "Base/JavaScript/Функции.md",
     "Base/GitHub/GitHub-pages.md",
     "Base/JavaScript/Методы массива.md",
-    "Base/JavaScript/Функции.md",
     "Base/JavaScript/Массивы.md",
-    "Base/JavaScript/new Promise().md",
-    "Base/JavaScript/try...catch.md",
-    "Base/JavaScript/class (классы).md",
     "Base/React/useEffect.md",
     "Base/React/hook (Хуки).md"
   ]
