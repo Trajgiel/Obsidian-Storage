@@ -7,12 +7,8 @@
         "id": "f8af4c8f4811e713",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Base/JavaScript/new Promise().md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/JavaScript/new Promise().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/JavaScript/new Promise().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,15 +106,15 @@
   },
   "active": "f8af4c8f4811e713",
   "lastOpenFiles": [
-    "Base/JavaScript/class (классы).md",
+    "README.md",
     "Base/JavaScript/JavaScript.md",
-    "Base/JavaScript/try...catch.md",
+    "Base/Без названия.md",
     "Base/JavaScript/new Promise().md",
+    "Base/JavaScript/class (классы).md",
+    "Base/JavaScript/try...catch.md",
     "Base/JavaScript/Функции.md",
     "Base/GitHub/GitHub-pages.md",
     "Base/JavaScript/Методы массива.md",
-    "Base/JavaScript/Массивы.md",
-    "Base/React/useEffect.md",
-    "Base/React/hook (Хуки).md"
+    "Base/JavaScript/Массивы.md"
   ]
 }
