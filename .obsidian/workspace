@@ -7,8 +7,12 @@
         "id": "f8af4c8f4811e713",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Base/Snapshot testing.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -49,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 201.5,
+    "collapsed": true
   },
   "right": {
     "id": "7b5f879a9d0e5f0e",
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/Snapshot testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Base/Snapshot testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,15 +113,15 @@
   },
   "active": "f8af4c8f4811e713",
   "lastOpenFiles": [
-    "README.md",
-    "Base/JavaScript/JavaScript.md",
-    "Base/Без названия.md",
-    "Base/JavaScript/new Promise().md",
-    "Base/JavaScript/class (классы).md",
-    "Base/JavaScript/try...catch.md",
-    "Base/JavaScript/Функции.md",
+    "Base/React/Install React.md",
+    "Base/StoryBook.md",
     "Base/GitHub/GitHub-pages.md",
-    "Base/JavaScript/Методы массива.md",
-    "Base/JavaScript/Массивы.md"
+    "Base/Snapshot testing.md",
+    "Base/React/React.md",
+    "Base/JavaScript/JavaScript.md",
+    "Base/Redux/useSelector.md",
+    "Base/JavaScript/new Promise().md",
+    "README.md",
+    "Base/Без названия.md"
   ]
 }

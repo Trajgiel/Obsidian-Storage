@@ -2,6 +2,7 @@
 Tags: #GitHub
 __
 # GitHub-pages
+yarn deploy
 
 Порядок установки:
 1) `yarn add gh-pages` или `yarn add gh-pages --dev`

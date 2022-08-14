@@ -3,7 +3,7 @@ Tags: #React
 __
 # Install
 - Project TS - `npx create-react-app my-app --template typescript`
-- StoryBook - `npx storybook` (yarn storybook)
+- [[StoryBook]] - `npx storybook init` (yarn storybook)
 - [[GitHub-pages]] - `yarn add gh-pages --dev` (yarn deploy)
 
 # Библиотеки
@@ -13,6 +13,7 @@ __
 - SVG Material icons - `yarn add @mui/icons-material`
 - Redux, React-Redux - `yarn add redux react-redux @types/react-redux`
 - lodash - `yarn add @types/lodash`
+- [[Snapshot testing]] - `tsx yarn add puppeteer jest-puppeteer jest-image-snapshot start-server-and-test --dev` (yarn test:integration)
 
 __
 ### Links
