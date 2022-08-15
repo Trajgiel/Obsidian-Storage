@@ -1,7 +1,7 @@
 2022-07-31 21:08
-Tags: #JavaScript  #class  #promise
+Tags: #JavaScript #promise
 __
-# new Promise()
+# Promise
 Объект **`Promise`** используется для отложенных и асинхронных вычислений.
 
 ```js
@@ -150,4 +150,4 @@ function promisifyGet(url) {
 ```
 __
 ### Links
-[[class (классы)]]
+[[JavaScript]]

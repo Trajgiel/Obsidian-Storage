@@ -1,5 +1,5 @@
 2022-07-24 11:20
-Tags: #JavaScript #class
+Tags: #JavaScript
 __
 # new Date()
 new Date() - cоздаёт объект `Date` с текущей датой и временем:
@@ -30,4 +30,4 @@ date.getSeconds()         // секунды
 
 __
 ### Links
-[[class (классы)]]
+[[Конструкторы]]
