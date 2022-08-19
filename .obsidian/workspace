@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/JavaScript/JavaScript.md",
-            "mode": "preview",
+            "file": "Base/JavaScript/prototype  __proto__.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/JavaScript/JavaScript.md",
+                "file": "Base/JavaScript/prototype  __proto__.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/JavaScript/JavaScript.md",
+                "file": "Base/JavaScript/prototype  __proto__.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,15 +112,15 @@
   },
   "active": "9eaaae863af0b9f7",
   "lastOpenFiles": [
-    "Base/JavaScript/this.md",
     "Base/JavaScript/JavaScript.md",
-    "Base/JavaScript/new Date().md",
-    "Base/JavaScript/bind() apply() call().md",
-    "Base/JavaScript/Функции.md",
-    "Base/apply() call().md",
-    "Base/JavaScript/Структуры данных.md",
-    "Base/JavaScript/Типы данных.md",
-    "Base/JavaScript/Конструкторы.md",
-    "Base/StoryBook/StoryBook.md"
+    "Base/JavaScript/class (классы).md",
+    "Base/JavaScript/prototype  __proto__.md",
+    "Base/React/hook (Хуки).md",
+    "Base/React/useEffect.md",
+    "Base/StoryBook/StoryBook.md",
+    "Base/React/Install React.md",
+    "Base/JavaScript/bind() call() apply().md",
+    "Base/JavaScript/this.md",
+    "Base/JavaScript/new Date().md"
   ]
 }
