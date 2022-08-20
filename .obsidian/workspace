@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/JavaScript/prototype  __proto__.md",
+            "file": "Base/Axios.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 201.5,
+    "collapsed": true
   },
   "right": {
     "id": "7b5f879a9d0e5f0e",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/JavaScript/prototype  __proto__.md",
+                "file": "Base/Axios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/JavaScript/prototype  __proto__.md",
+                "file": "Base/Axios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,15 +113,15 @@
   },
   "active": "9eaaae863af0b9f7",
   "lastOpenFiles": [
-    "Base/JavaScript/JavaScript.md",
-    "Base/JavaScript/class (классы).md",
-    "Base/JavaScript/prototype  __proto__.md",
-    "Base/React/hook (Хуки).md",
-    "Base/React/useEffect.md",
-    "Base/StoryBook/StoryBook.md",
+    "Base/React/class Component.md",
+    "Base/JavaScript/Promise.md",
+    "Base/Axios.md",
+    "Base/Redux/Redux.md",
+    "Base/React/React.md",
+    "Base/React/hoc.md",
+    "Base/React/React.memo.md",
+    "Base/React/Компонента.md",
     "Base/React/Install React.md",
-    "Base/JavaScript/bind() call() apply().md",
-    "Base/JavaScript/this.md",
-    "Base/JavaScript/new Date().md"
+    "Base/JavaScript/JavaScript.md"
   ]
 }

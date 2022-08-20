@@ -43,8 +43,7 @@ export const store = legacy_createStore(rootReducer)
 - [[reducer]] - это чистая функция которая принимает state, принимает action...
 - [[action (Action Creators)|action]] - это объект у которого обязательно есть свойство `type`...
 ---
-- [[useDispatch]]
-- [[useSelector]]
 
 __
 ### Links
+[[React]]

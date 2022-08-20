@@ -14,6 +14,7 @@ __
 - Redux, React-Redux - `yarn add redux react-redux @types/react-redux`
 - lodash - `yarn add @types/lodash`
 - [[Snapshot testing]] - `tsx yarn add puppeteer jest-puppeteer jest-image-snapshot start-server-and-test --dev` (yarn test:integration)
+- Axios - `yarn add axios`
 
 __
 ### Links
