@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Axios.md",
-            "mode": "source",
+            "file": "Base/JavaScript/Promise.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5,
-    "collapsed": true
+    "width": 201.5
   },
   "right": {
     "id": "7b5f879a9d0e5f0e",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Axios.md",
+                "file": "Base/JavaScript/Promise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Axios.md",
+                "file": "Base/JavaScript/Promise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,15 +112,15 @@
   },
   "active": "9eaaae863af0b9f7",
   "lastOpenFiles": [
-    "Base/React/class Component.md",
-    "Base/JavaScript/Promise.md",
-    "Base/Axios.md",
-    "Base/Redux/Redux.md",
-    "Base/React/React.md",
-    "Base/React/hoc.md",
-    "Base/React/React.memo.md",
-    "Base/React/Компонента.md",
+    "Base/CSS/Flex-box.md",
+    "Base/JavaScript/bind() call() apply().md",
+    "Base/JavaScript/prototype  __proto__.md",
+    "Base/JavaScript/Функции.md",
+    "Base/JavaScript/Конструкторы.md",
+    "Base/JavaScript/class (классы).md",
+    "Base/Axios/Axios.md",
     "Base/React/Install React.md",
-    "Base/JavaScript/JavaScript.md"
+    "Base/React/React.md",
+    "Base/React/class Component.md"
   ]
 }
