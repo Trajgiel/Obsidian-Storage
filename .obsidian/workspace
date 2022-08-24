@@ -49,7 +49,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 201.5,
+    "collapsed": true
   },
   "right": {
     "id": "7b5f879a9d0e5f0e",
@@ -106,15 +107,15 @@
   },
   "active": "9eaaae863af0b9f7",
   "lastOpenFiles": [
-    "Base/JavaScript/Promise.md",
-    "Base/JavaScript/JavaScript.md",
-    "Base/JavaScript/Функции.md",
-    "Base/JavaScript/Замыкание.md",
-    "Base/TypeScript/TypeScript.md",
+    "Base/JavaScript/class (классы).md",
     "Base/JavaScript/prototype  __proto__.md",
+    "Base/JavaScript/JavaScript.md",
+    "Base/JavaScript/Замыкание.md",
+    "Base/JavaScript/Promise.md",
+    "Base/JavaScript/Функции.md",
+    "Base/TypeScript/TypeScript.md",
     "Base/Redux/Redux.md",
     "Base/StoryBook/Snapshot testing.md",
-    "Base/StoryBook/StoryBook.md",
-    "Base/CSS/Flex-box.md"
+    "Base/StoryBook/StoryBook.md"
   ]
 }
