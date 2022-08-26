@@ -49,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5,
-    "collapsed": true
+    "width": 201.5
   },
   "right": {
     "id": "7b5f879a9d0e5f0e",
@@ -107,15 +106,15 @@
   },
   "active": "9eaaae863af0b9f7",
   "lastOpenFiles": [
+    "Base/React/React.md",
+    "Base/JavaScript/JavaScript.md",
+    "Base/TypeScript/TypeScript.md",
+    "Base/Browser/Single Page Application.md",
+    "Base/React/ReactDOM.md",
     "Base/JavaScript/class (классы).md",
     "Base/JavaScript/prototype  __proto__.md",
-    "Base/JavaScript/JavaScript.md",
-    "Base/JavaScript/Замыкание.md",
-    "Base/JavaScript/Promise.md",
-    "Base/JavaScript/Функции.md",
-    "Base/TypeScript/TypeScript.md",
-    "Base/Redux/Redux.md",
-    "Base/StoryBook/Snapshot testing.md",
-    "Base/StoryBook/StoryBook.md"
+    "Base/JavaScript/try...catch.md",
+    "Base/Axios/Axios.md",
+    "Base/React/Thunk.md"
   ]
 }

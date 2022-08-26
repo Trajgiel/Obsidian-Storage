@@ -9,6 +9,9 @@ TypeScript — является строго типизированным язы
 
 ```ts
 const a: number = 10;
+const b: string = 'Hello';
+const c: boolean = true;
+...
 ```
 
 ---
