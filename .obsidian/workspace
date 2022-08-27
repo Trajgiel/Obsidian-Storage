@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "9eaaae863af0b9f7",
+        "id": "acbca63aec0eff11",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -49,7 +49,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 201.5,
+    "collapsed": true
   },
   "right": {
     "id": "7b5f879a9d0e5f0e",
@@ -104,17 +105,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9eaaae863af0b9f7",
+  "active": "acbca63aec0eff11",
   "lastOpenFiles": [
+    "Base/GitHub/GitHub-pages.md",
+    "Base/React/Install React.md",
+    "Base/Redux/Thunk.md",
+    "Base/TypeScript/TypeScript.md",
+    "Base/Redux/Redux.md",
     "Base/React/React.md",
     "Base/JavaScript/JavaScript.md",
-    "Base/TypeScript/TypeScript.md",
     "Base/Browser/Single Page Application.md",
     "Base/React/ReactDOM.md",
-    "Base/JavaScript/class (классы).md",
-    "Base/JavaScript/prototype  __proto__.md",
-    "Base/JavaScript/try...catch.md",
-    "Base/Axios/Axios.md",
-    "Base/React/Thunk.md"
+    "Base/JavaScript/class (классы).md"
   ]
 }

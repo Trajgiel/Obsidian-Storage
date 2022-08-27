@@ -24,6 +24,7 @@ enum TaskStatuses {
     Completed = 2,  
     Draft = 3  
 }
+// TaskStatuses.New -> 0
 
 enum Season {  
     Winter = 'Зима',  
@@ -31,6 +32,7 @@ enum Season {
     Summer = 'Лето',  
     Autumn = 'Осень'  
 }
+// Season.Autumn -> 'Осень'
 ```
 __
 ### Links
