@@ -12,19 +12,9 @@ yarn add redux-thunk - установить библиотеку thunk
 ---
 Примените промежуточное ПО при создании приложения, использует команду Redux `applyMiddleware`. Файл `store.ts` будет выглядеть следующим образом:
 ```ts
-import { tasksReducer } from './tasks-reducer';  
-import { todolistsReducer } from './todolists-reducer';  
-import {applyMiddleware, combineReducers, createStore} from 'redux';  
-import thunk from 'redux-thunk'  
-  
-const rootReducer = combineReducers({  
-    tasks: tasksReducer,  
-    todolists: todolistsReducer  
-})  
+// store.ts
 
 export const store = createStore(rootReducer, applyMiddleware(thunk));
-
-export type AppRootStateType = ReturnType<typeof rootReducer>
 ```
 Мы импортировали Redux Thunk и добавили его в наше приложение, с помощью `applyMiddleware(thunk)`
 
@@ -50,7 +40,53 @@ export const getTaskTC = (todoListsID: string) =>
 Получили на прямую нужные данные
 
 ---
+## Типизация TS
+```tsx
+export const getTaskTC = (todoListsID: string) =>
+	
+    (dispatch: Dispatch<ActionType>) => {
+		// Dispatch из redux, ActionType - тип action редьюсера
+    }
+```
+---
+Типизация dispatch
+```tsx
+const dispatch = useDispatch<AppDispatch>()
+```
+```ts
+// store.ts
 
+ThunkDispatch<
+S, // тип state всего приложения
+E, // экстра аргументы (unknown)
+A  // все action всего App
+>
+
+export type AppDispatch = ThunkDispatch<RootState, unknown, AppActionsType>
+```
+---
+Если thunk возвращает другую thank, то эта санка типизируется следующим способом
+```tsx
+const getTaskTC = (): AppThunk =>
+    (dispatch) => {
+        todolistsAPI.getTasks(todoListsID)  
+            .then(res => {  
+                dispatch(setTasksTC(todoListsID, res.data.items))  
+            })  
+}
+```
+```ts
+// store.ts
+
+export type ThunkAction<
+R, // описываем, что возвращает thunk (void)
+S, // тип state всего приложения
+E, // экстра аргументы (unknown)
+A extends Action // все action всего App
+>
+
+export type AppThunk<ReturnType = void> = ThunkAction<ReturnType, RootState, unknown, AnyAction>
+```
 
 __
 ### Links
