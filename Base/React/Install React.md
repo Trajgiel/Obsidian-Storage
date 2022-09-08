@@ -16,10 +16,13 @@ __
 - Redux-Form - `yarn add redux-form @types/redux-form`
 - Redux-Toolkit - 
 ---
+- formik - `yarn add formik`
+---
 - Axios - `yarn add axios`
 ---
 - Material UI - `yarn add @mui/material @emotion/react @emotion/styled`
 - SVG Material icons - `yarn add @mui/icons-material`
+- SASS - `yarn add sass`
 ---
 - lodash - `yarn add @types/lodash`
 

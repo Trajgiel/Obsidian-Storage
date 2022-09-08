@@ -40,6 +40,15 @@ users.__proto__ === Array.prototype   //true
 const str = "string"; // new String(...)
 str.__proto__ === String.prototype   //true
 ```
+---
+## Object.setPrototypeOf
+Метод **`Object.setPrototypeOf()`** устанавливает прототип (то есть, внутреннее свойство `[[Prototype]]`) указанного объекта в другой объект или `null`.
+```js
+Object.setPrototypeOf(obj, prototype);
+```
+`obj` - объект, которому устанавливается прототип.
+`prototype` - новый прототип объекта (объект или `null`.
+
 __
 ### Links
 [[JavaScript]]

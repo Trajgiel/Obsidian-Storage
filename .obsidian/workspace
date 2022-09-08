@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Redux/Thunk.md",
+            "file": "Base/React/Install React.md",
             "mode": "preview",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5,
-    "collapsed": true
+    "width": 201.5
   },
   "right": {
     "id": "7b5f879a9d0e5f0e",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Redux/Thunk.md",
+                "file": "Base/React/Install React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Redux/Thunk.md",
+                "file": "Base/React/Install React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,15 +112,15 @@
   },
   "active": "acbca63aec0eff11",
   "lastOpenFiles": [
-    "Base/Redux/Redux.md",
     "Base/React/React.md",
-    "Base/Redux/Thunk.md",
+    "Base/JavaScript/Объекты.md",
     "Base/React/Install React.md",
-    "Base/GitHub/GitHub-pages.md",
-    "Base/TypeScript/TypeScript.md",
-    "Base/JavaScript/JavaScript.md",
-    "Base/Browser/Single Page Application.md",
-    "Base/React/ReactDOM.md",
-    "Base/JavaScript/class (классы).md"
+    "Base/CSS/Flex-box.md",
+    "Base/CSS/CSS.md",
+    "Base/CSS/SASS.md",
+    "Base/JavaScript/prototype.md",
+    "Base/JavaScript/class.md",
+    "Base/JavaScript/Замыкание.md",
+    "Base/StoryBook/Snapshot testing.md"
   ]
 }
