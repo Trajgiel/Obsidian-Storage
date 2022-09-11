@@ -8,19 +8,19 @@ __
 - [[StoryBook]] - `npx storybook init` (yarn storybook)
 - [[Snapshot testing]] - `tsx yarn add puppeteer jest-puppeteer jest-image-snapshot start-server-and-test --dev` (yarn test:integration)
 # Библиотеки
-- React-Router-Dom - `yarn add react-router-dom @types/react-router-dom`
+- [React-Router-Dom](https://reactrouter.com/en/v6.3.0) - `yarn add react-router-dom @types/react-router-dom`
 - uuid - `yarn add uuid @types/uuid` (npm instal uuid @types/uuid)
 ---
 - Redux, React-Redux - `yarn add redux react-redux @types/react-redux`
 - Redux-Thunk - `yarn add redux-thunk`
-- Redux-Form - `yarn add redux-form @types/redux-form`
 - Redux-Toolkit - 
+- Redux-Form - `yarn add redux-form @types/redux-form`
 ---
-- formik - `yarn add formik`
+- [formik](https://formik.org/docs/overview) - `yarn add formik`
 ---
 - Axios - `yarn add axios`
 ---
-- Material UI - `yarn add @mui/material @emotion/react @emotion/styled`
+- [Material UI](https://mui.com/) - `yarn add @mui/material @emotion/react @emotion/styled`
 - SVG Material icons - `yarn add @mui/icons-material`
 - SASS - `yarn add sass`
 ---

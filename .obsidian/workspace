@@ -112,15 +112,15 @@
   },
   "active": "acbca63aec0eff11",
   "lastOpenFiles": [
+    "Base/Axios/Axios.md",
+    "Base/React/Install React.md",
     "Base/React/React.md",
     "Base/JavaScript/Объекты.md",
-    "Base/React/Install React.md",
     "Base/CSS/Flex-box.md",
     "Base/CSS/CSS.md",
     "Base/CSS/SASS.md",
     "Base/JavaScript/prototype.md",
     "Base/JavaScript/class.md",
-    "Base/JavaScript/Замыкание.md",
-    "Base/StoryBook/Snapshot testing.md"
+    "Base/JavaScript/Замыкание.md"
   ]
 }

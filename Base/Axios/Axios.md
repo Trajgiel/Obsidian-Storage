@@ -39,7 +39,28 @@ __
 -  У POST и PUT(PATCH) есть тела запроса (body, payload)
 -  Разница между PUT и PATCH в том, что PUT обновляет объект целиком, а PATCH — только указанное поле.
 ---
+```ts
+const instance = axios.create({  
+    baseURL: 'https://social-network.samuraijs.com/api/1.1/',  
+    withCredentials: true,  
+    headers: {  
+        'API-KEY': 'fe0bde16-910d-49bc-94ec-281d4e7919c5'  
+    }  
+})
 
+export const todolistsAPI = {  
+    getTodolists() {  
+        return instance.get<TodolistType[]>('todo-lists');  
+    },
+    ...
+    updateTask(todolistId: string, taskId: string, model: 
+    UpdateTaskModelType) {  
+	    return instance.put<UpdateTaskModelType, 
+        AxiosResponse<ResponseType<{ item: TaskType }>>>(`todo- 
+        lists/${todolistId}/tasks/${taskId}`, model);  
+	}
+}
+```
 
 __
 ### Links
