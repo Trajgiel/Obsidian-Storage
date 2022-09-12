@@ -7,12 +7,8 @@
         "id": "acbca63aec0eff11",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Base/React/Install React.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#class",
+                "query": "tag:#ReactRouter",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/React/Install React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/React/Install React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,15 +106,15 @@
   },
   "active": "acbca63aec0eff11",
   "lastOpenFiles": [
-    "Base/Axios/Axios.md",
-    "Base/React/Install React.md",
+    "Base/Без названия.md",
+    "Base/Formik/Formik.md",
     "Base/React/React.md",
+    "Base/React-Router/React-Router.md",
+    "Base/Browser/Single Page Application.md",
+    "Base/React/Install React.md",
+    "Base/Axios/Axios.md",
     "Base/JavaScript/Объекты.md",
     "Base/CSS/Flex-box.md",
-    "Base/CSS/CSS.md",
-    "Base/CSS/SASS.md",
-    "Base/JavaScript/prototype.md",
-    "Base/JavaScript/class.md",
-    "Base/JavaScript/Замыкание.md"
+    "Base/CSS/CSS.md"
   ]
 }

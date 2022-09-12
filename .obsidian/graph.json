@@ -69,9 +69,23 @@
         "a": 1,
         "rgb": 2527512
       }
+    },
+    {
+      "query": "React-Router",
+      "color": {
+        "a": 1,
+        "rgb": 16007760
+      }
+    },
+    {
+      "query": "Formik",
+      "color": {
+        "a": 1,
+        "rgb": 1518413
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 0.8,
@@ -81,6 +95,6 @@
   "repelStrength": 11.7594654788419,
   "linkStrength": 1,
   "linkDistance": 251,
-  "scale": 0.4319151745958647,
+  "scale": 0.4319151745958658,
   "close": true
 }
