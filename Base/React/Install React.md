@@ -13,7 +13,7 @@ __
 ---
 - Redux, React-Redux - `yarn add redux react-redux @types/react-redux`
 - Redux-Thunk - `yarn add redux-thunk`
-- Redux-Toolkit - 
+- [Redux-Toolkit](https://redux-toolkit.js.org/) - `yarn add @reduxjs/toolkit`
 - Redux-Form - `yarn add redux-form @types/redux-form`
 ---
 - [formik](https://formik.org/docs/overview) - `yarn add formik`

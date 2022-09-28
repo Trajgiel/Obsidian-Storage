@@ -15,8 +15,8 @@ UseParams () - это часть комплекса крючков, связыв
 Import { useParams } from “react-router-dom”
 
 const App = () => {
-    let { username } = useParams();
-    return <div>My name is {username}</div>
+    let params = useParams();
+    return <div>My name is {params.username}</div>
 }
 ```
 Теперь вы можете изменить модуль динамически по любому URL, который соответствует маршруту, указанному в сообщении. Это также может быть использовано при вызове API. если у вас есть список пользователей, вы можете щёлкнуть на имени пользователя и добавить его имя в список поиска, чтобы получить всю информацию.

@@ -106,15 +106,15 @@
   },
   "active": "acbca63aec0eff11",
   "lastOpenFiles": [
-    "Base/Без названия.md",
+    "Base/CSS/Flex-box.md",
+    "Base/React/useParams.md",
+    "Base/React/hook (Хуки).md",
+    "Base/React/Install React.md",
+    "Base/CSS/SASS.md",
+    "Base/REST API.md",
+    "Base/JavaScript/Promise.md",
     "Base/Formik/Formik.md",
     "Base/React/React.md",
-    "Base/React-Router/React-Router.md",
-    "Base/Browser/Single Page Application.md",
-    "Base/React/Install React.md",
-    "Base/Axios/Axios.md",
-    "Base/JavaScript/Объекты.md",
-    "Base/CSS/Flex-box.md",
-    "Base/CSS/CSS.md"
+    "Base/React-Router/React-Router.md"
   ]
 }
