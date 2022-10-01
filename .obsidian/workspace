@@ -7,8 +7,12 @@
         "id": "acbca63aec0eff11",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Base/Node.js.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ReactRouter",
+                "query": "tag:#Server",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/Node.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Base/Node.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,15 +112,15 @@
   },
   "active": "acbca63aec0eff11",
   "lastOpenFiles": [
-    "Base/CSS/Flex-box.md",
-    "Base/React/useParams.md",
-    "Base/React/hook (Хуки).md",
+    "Base/Node.js.md",
+    "Base/GitHub/GitHub-pages.md",
     "Base/React/Install React.md",
-    "Base/CSS/SASS.md",
-    "Base/REST API.md",
-    "Base/JavaScript/Promise.md",
-    "Base/Formik/Formik.md",
     "Base/React/React.md",
-    "Base/React-Router/React-Router.md"
+    "Base/JavaScript/bind() call() apply().md",
+    "Base/React/useEffect.md",
+    "Base/JavaScript/Promise.md",
+    "Base/Axios/Axios.md",
+    "Base/CSS/Flex-box.md",
+    "Base/React/useParams.md"
   ]
 }

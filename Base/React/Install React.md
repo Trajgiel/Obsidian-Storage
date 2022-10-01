@@ -2,7 +2,7 @@
 Tags: #React
 __
 # Install
-- Project TS - `npx create-react-app my-app --template typescript`
+- Project TS - `yarn create react-app my-app --template typescript`
 - [[GitHub-pages]] - `yarn add gh-pages --dev` (yarn deploy)
 ---
 - [[StoryBook]] - `npx storybook init` (yarn storybook)

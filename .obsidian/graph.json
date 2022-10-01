@@ -83,6 +83,13 @@
         "a": 1,
         "rgb": 1518413
       }
+    },
+    {
+      "query": "Node.js",
+      "color": {
+        "a": 1,
+        "rgb": 7382880
+      }
     }
   ],
   "collapse-display": true,
@@ -95,6 +102,6 @@
   "repelStrength": 11.7594654788419,
   "linkStrength": 1,
   "linkDistance": 251,
-  "scale": 0.6055376880733845,
+  "scale": 1.1902182636656093,
   "close": true
 }
