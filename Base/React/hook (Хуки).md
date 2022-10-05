@@ -29,8 +29,8 @@ Hook'и нельзя использовать в:
 - [[useCallback]] - выполнит callback функцию и запомнить ее до тех пор пока...
 
 - [[useParams]] - 
-- useSearchParams - 
-- useNavigate -
+- [[useSearchParams]] - взять или добавить данные из URL
+- [[useNavigate]] - добавление данных в URL
 
 __
 ### Links

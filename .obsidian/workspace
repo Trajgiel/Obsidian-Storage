@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Node.js.md",
+            "file": "Base/React/hook (Хуки).md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Node.js.md",
+                "file": "Base/React/hook (Хуки).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Node.js.md",
+                "file": "Base/React/hook (Хуки).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,15 +112,15 @@
   },
   "active": "acbca63aec0eff11",
   "lastOpenFiles": [
-    "Base/Node.js.md",
-    "Base/GitHub/GitHub-pages.md",
+    "Base/useSearchParams.md",
+    "Base/React/hook (Хуки).md",
+    "Base/useNavigate.md",
+    "Base/React/useParams.md",
     "Base/React/Install React.md",
     "Base/React/React.md",
-    "Base/JavaScript/bind() call() apply().md",
-    "Base/React/useEffect.md",
-    "Base/JavaScript/Promise.md",
-    "Base/Axios/Axios.md",
     "Base/CSS/Flex-box.md",
-    "Base/React/useParams.md"
+    "Base/CSS/SASS.md",
+    "Base/GitHub/GitHub-pages.md",
+    "Base/Node.js.md"
   ]
 }
