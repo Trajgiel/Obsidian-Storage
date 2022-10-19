@@ -25,6 +25,7 @@ app.get('/api/users', getUsers)
 `yarn add -D nodemon` - автоматическое обновление сервера
 
 `yarn add express` - библиотека express
+`yarn add nodemailer` - работа с почтой
 `yarn add cors` - библиотека cors
 `yarn add body-parser` - библиотека лоя работы с боди запроса
 

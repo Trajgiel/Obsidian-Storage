@@ -90,6 +90,13 @@
         "a": 1,
         "rgb": 7382880
       }
+    },
+    {
+      "query": "React Native",
+      "color": {
+        "a": 1,
+        "rgb": 41166
+      }
     }
   ],
   "collapse-display": true,
@@ -102,6 +109,6 @@
   "repelStrength": 11.7594654788419,
   "linkStrength": 1,
   "linkDistance": 251,
-  "scale": 0.4319151745958695,
+  "scale": 0.43191517459587164,
   "close": true
 }

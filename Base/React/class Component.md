@@ -22,6 +22,7 @@ class Component extends React.Component {
 
 - componentDidUpdate(prevProps, prevState) {...} - при обновлении компоненты выполняет код внутки этого метода.
 	`prevProps`, `prevState` - это предыдущие значания которые были до момента перерисовки компоненты.
+- shouldComponentUpdate(nextProps, nextState) {return boolean} - сравнивает если текущие пропсы или стейт не изменились, не перерисовывает компоненту.
 
 __
 ### Links

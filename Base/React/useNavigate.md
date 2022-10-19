@@ -3,6 +3,13 @@ Tags: #hook
 __
 # useNavigate
 
+Возвращение на страницу назад или вперёд
+```tsx
+const navigate = useNavigate()
+
+
+```
+
 Добавление данных в URL
 ```jsx
 ```javascript
