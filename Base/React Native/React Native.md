@@ -17,7 +17,10 @@ yarn add @react-navigation/native
 npx expo install react-native-screens react-native-safe-area-context
 yarn add @react-navigation/native-stack
 
+---
+
 ### Drawer navigation
+yarn add @react-navigation/drawer - боковая понель выезжающая
 yarn add @react-navigation/bottom-tabs - нижние табы приложения
 npx expo install react-native-gesture-handler react-native-reanimated
 
@@ -27,7 +30,9 @@ plugins: ['react-native-reanimated/plugin'],
 ```
 `expo start -c`
 
-Вложености и х написание
+---
+
+Вложености и их написание
 ```ts
 navigation.navigate('Name')
 navigation.navigate('Name1')

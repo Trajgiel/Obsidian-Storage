@@ -1,29 +1,43 @@
 2022-06-27 13:26
 Tags: #React
 __
-# Install
+## Install
 - Project TS - `yarn create react-app my-app --template typescript`
 - [[GitHub-pages]] - `yarn add gh-pages --dev` (yarn deploy)
----
 - [[StoryBook]] - `npx storybook init` (yarn storybook)
 - [[Snapshot testing]] - `tsx yarn add puppeteer jest-puppeteer jest-image-snapshot start-server-and-test --dev` (yarn test:integration)
-# Библиотеки
-- [React-Router-Dom](https://reactrouter.com/en/v6.3.0) - `yarn add react-router-dom @types/react-router-dom`
-- uuid - `yarn add uuid @types/uuid` (npm instal uuid @types/uuid)
 ---
+#### Состояние приложения: 
 - Redux, React-Redux - `yarn add redux react-redux @types/react-redux`
-- Redux-Thunk - `yarn add redux-thunk`
 - [Redux-Toolkit](https://redux-toolkit.js.org/) - `yarn add @reduxjs/toolkit`
+- Redux-Thunk - `yarn add redux-thunk`
+- React-hooks-global-state - `yarn add react-hooks-global-state`
+---
+#### Формы:
+- [formik](https://formik.org/docs/overview) - `yarn add formik`
 - Redux-Form - `yarn add redux-form @types/redux-form`
 ---
-- [formik](https://formik.org/docs/overview) - `yarn add formik`
+#### Роутинг:
+- [React-Router-Dom](https://reactrouter.com/en/v6.3.0) - `yarn add react-router-dom @types/react-router-dom`
 ---
+#### Запросы:
 - Axios - `yarn add axios`
+- Socket.io -
 ---
+#### Отрисовка данных:
+- React-window - `yarn add @types/react-window`
+
+---
+#### Узнать размер экрана:
+- React-virtualized-auto-sizer - `yarn add @types/react-virtualized-auto-sizer`
+---
+#### Стили:
 - [Material UI](https://mui.com/) - `yarn add @mui/material @emotion/react @emotion/styled`
 - SVG Material icons - `yarn add @mui/icons-material`
 - SASS - `yarn add sass`
 ---
+#### Прочее:
+-  uuid - `yarn add uuid @types/uuid` (npm instal uuid @types/uuid)
 - lodash - `yarn add @types/lodash`
 
 __

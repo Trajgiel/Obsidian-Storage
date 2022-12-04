@@ -20,9 +20,11 @@ class Component extends React.Component {
 ---
 ### Методы жизненого цикла:
 
+- componentDidMount - вызывается после отрисовки компоненты
 - componentDidUpdate(prevProps, prevState) {...} - при обновлении компоненты выполняет код внутки этого метода.
 	`prevProps`, `prevState` - это предыдущие значания которые были до момента перерисовки компоненты.
 - shouldComponentUpdate(nextProps, nextState) {return boolean} - сравнивает если текущие пропсы или стейт не изменились, не перерисовывает компоненту.
+- componentWillUnmount - вызывается во время демонтирования компоненты.
 
 __
 ### Links
