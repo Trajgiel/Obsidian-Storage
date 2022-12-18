@@ -9,7 +9,7 @@ yarn deploy
 
 2) добавить в package.json:
 ```tsx
-"homepage": "https://Traihel.github.io/ToDoList-TS",
+"homepage": "https://Traigel.github.io/ToDoList-TS",
 
 // после строки например "name": ...
 //homepage: "https://ВашЛогин.github.io/НазваниеРеппозитория" 

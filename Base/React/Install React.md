@@ -9,8 +9,8 @@ __
 ---
 #### Состояние приложения: 
 - Redux, React-Redux - `yarn add redux react-redux @types/react-redux`
-- [Redux-Toolkit](https://redux-toolkit.js.org/) - `yarn add @reduxjs/toolkit`
 - Redux-Thunk - `yarn add redux-thunk`
+- [Redux-Toolkit](https://redux-toolkit.js.org/) - `yarn add @reduxjs/toolkit`
 - React-hooks-global-state - `yarn add react-hooks-global-state`
 ---
 #### Формы:
@@ -24,19 +24,21 @@ __
 - Axios - `yarn add axios`
 - Socket.io -
 ---
-#### Отрисовка данных:
-- React-window - `yarn add @types/react-window`
-
----
-#### Узнать размер экрана:
-- React-virtualized-auto-sizer - `yarn add @types/react-virtualized-auto-sizer`
----
 #### Стили:
 - [Material UI](https://mui.com/) - `yarn add @mui/material @emotion/react @emotion/styled`
 - SVG Material icons - `yarn add @mui/icons-material`
 - SASS - `yarn add sass`
 ---
-#### Прочее:
+##### Отрисовка данных:
+- React-window - `yarn add react-window @types/react-window`
+---
+##### Узнать размер экрана:
+- React-virtualized-auto-sizer - `yarn add react-virtualized-auto-sizer @types/react-virtualized-auto-sizer`
+---
+##### Увеличить изображение:
+- React-image-magnify - `yarn add react-image-magnify @types/react-image-magnify`
+---
+##### Прочее:
 -  uuid - `yarn add uuid @types/uuid` (npm instal uuid @types/uuid)
 - lodash - `yarn add @types/lodash`
 
