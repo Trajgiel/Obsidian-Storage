@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "08d8297a4155682b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/CSS/Flex-box.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "856b6db7d93da3ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Base/CSS/CSS.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44f71473198aa560",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/React/Install React.md",
                 "mode": "preview",
                 "source": false
               }
@@ -56,19 +32,31 @@
             }
           },
           {
-            "id": "84d2f276ad562f25",
+            "id": "46e6579fe40da4ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/JavaScript/reduce().md",
+                "file": "Base/Node.js/Node.js.md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3072e9e4037a8bea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Database/MongoDB.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Server",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/JavaScript/reduce().md",
+                "file": "Base/Database/MongoDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/JavaScript/reduce().md",
+                "file": "Base/Database/MongoDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,17 +155,28 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "84d2f276ad562f25",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "markdown-importer:Импорт Markdown-файлов": false
+    }
+  },
+  "active": "3072e9e4037a8bea",
   "lastOpenFiles": [
-    "Base/Redux/Redux Toolkit.md",
+    "Base/Database/Базы данных.md",
+    "Base/Node.js/Node.js.md",
+    "Templates/Шаблон.md",
+    "Base/Database/MongoDB.md",
+    "Base/Node.js/Install Nodejs.md",
+    "Base/Database/SQL.md",
+    "Base/REST API.md",
+    "Base/Database/Реляционная база данных.md",
     "Base/React/Install React.md",
-    "Base/GitHub/GitHub-pages.md",
-    "Base/JavaScript/reduce().md",
-    "Base/CSS/Flex-box.md",
-    "Base/JavaScript/sort().md",
-    "Base/CSS/CSS.md",
-    "Base/JavaScript/Promise.md",
-    "Base/React/useSearchParams.md",
-    "Base/React/hook (Хуки).md"
+    "Base/React/React.md"
   ]
 }

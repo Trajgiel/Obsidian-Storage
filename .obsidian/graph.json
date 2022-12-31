@@ -97,6 +97,13 @@
         "a": 1,
         "rgb": 41166
       }
+    },
+    {
+      "query": "MongoDB",
+      "color": {
+        "a": 1,
+        "rgb": 1139017
+      }
     }
   ],
   "collapse-display": true,
@@ -109,6 +116,6 @@
   "repelStrength": 11.7594654788419,
   "linkStrength": 1,
   "linkDistance": 251,
-  "scale": 0.6055376880733963,
+  "scale": 0.4319151745958777,
   "close": true
 }
