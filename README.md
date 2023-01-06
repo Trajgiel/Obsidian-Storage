@@ -1,5 +1,6 @@
-# Мое хранилище знаний
+# My repository of knowledge
 
-__
-### Links
-[[JavaScript]]
+
+---
+![[graf.png]]
+---
