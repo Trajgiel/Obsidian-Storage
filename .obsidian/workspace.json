@@ -44,43 +44,43 @@
             }
           },
           {
+            "id": "a25173128d970f78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/React/Install React.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "44192390e13e772c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Node.js/Node.js.md",
-                "mode": "source",
+                "file": "Base/Node.js/Install Nodejs.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "813d575e91b9d769",
+            "id": "a776335d03b3c4b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Base/Database/MongoDB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04f2cee64b5178e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Database/Типы связей.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -190,17 +190,17 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "813d575e91b9d769",
+  "active": "a776335d03b3c4b7",
   "lastOpenFiles": [
-    "Base/Database/Типы связей.md",
-    "Base/Database/MongoDB.md",
-    "Base/Database/Базы данных.md",
-    "Base/Node.js/Node.js.md",
-    "Base/Database/Реляционная база данных.md",
     "Base/Node.js/Install Nodejs.md",
     "Base/CSS/CSS.md",
-    "Base/Browser/Single Page Application.md",
-    "Base/Brainstorm/Мозговой штурм.md",
-    "Base/Redux/Redux Toolkit.md"
+    "Base/CSS/Flex-box.md",
+    "Base/Database/MongoDB.md",
+    "Base/Database/Реляционная база данных.md",
+    "Base/React/Install React.md",
+    "Base/React/React.md",
+    "Base/Database/SQL.md",
+    "Base/Database/Типы данных SQL.md",
+    "Base/Database/Базы данных.md"
   ]
 }

@@ -2,6 +2,10 @@
 Tags: #MongoDB
 
 ---
+Таблицы - это колесции
+Строки - это документы (объекты)
+
+---
 
 `show databases` - список имеющихся баз данных (`show dbs`)
 `use nameBD` - использоать БД или изменять колекции, если БД нет то она будет создана
@@ -15,7 +19,7 @@ Tags: #MongoDB
 ---
 ### Добавление данных
 
-`db.users.insert({name: "Vladimir", age: 29})` - добавить документ в колекцию
+`db.users.insertOne({name: "Vladimir", age: 29})` - добавить документ в колекцию
 `db.users.insertMany([
 {name: "Vladimir", age: 29},
 {name: "Alex", age: 24}
@@ -28,8 +32,8 @@ Tags: #MongoDB
 
 `db.users.find({ _id: ObjectId("63af708193a78cedab23ba46")})` - получение по id
 
-`db.users.find({age: 29, name: "Vova"})` - получение данные по критериям и
-`db.users.find({ $or: [{age: 29}, {name: "Vova"}]})` - получить данные с условием или
+`db.users.find({age: 29, name: "Vova"})` - получение данные по критериям "и"
+`db.users.find({ $or: [{age: 29}, {name: "Vova"}]})` - пол. данные с условием "или"
 
 `db.users.find({age: {$lt: 29}})` - меньше чем указанное число
 `db.users.find({age: {$lte: 29}})` - меньше чем или равно указанного числа
@@ -47,7 +51,7 @@ db.users.find({posts: {$sxists: true}})
 ```
 
 ```JSON
-// показать данные все п
+// показать данные все посты пользователя
 db.users.findOne(
 	{name: "Vova"}, // первый параметр это поиск по заддноному критерию
 	{posts: 1} // показать данные из массива
@@ -124,6 +128,11 @@ db.users.update(
 )
 ```
 
+---
+
+## Многие ко многим
+Есть общая таблица в которой сопаствляются id из двух других таблиц
+![[mongodb-table-links.png]]
 ---
 __
 ### Links

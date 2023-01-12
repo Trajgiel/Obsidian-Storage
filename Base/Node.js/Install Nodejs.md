@@ -22,8 +22,13 @@ __
 `yarn add body-parser` - библиотека лоя работы с боди запроса
 
 ---
+#### Подкючение и работа с mongoDB базой данных:
+- `yarn add mongodb`
+- `yarn add mongoose`
 
-`yarn add nodemailer` - работа с почтой  
+---
+#### Работа с почтой: 
+- Nodemailer - `yarn add nodemailer`
 
 __
 ### Links
