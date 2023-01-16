@@ -11,16 +11,30 @@ __
 `yarn add -D nodemon` - автоматическое обновление сервера
 ```json
 "scripts": {
-"dev": "nodemon index.js",
-"inspect": "nodemon --inspect index.js"
+	"dev": "nodemon index.js",
+	"inspect": "nodemon --inspect index.js"
 },
 ```
 ---
 
-`yarn add express` - библиотека express
-`yarn add cors` - библиотека cors  
-`yarn add body-parser` - библиотека лоя работы с боди запроса
+- `yarn add express` - библиотека express
+- `yarn add cors` - библиотека cors  
+- `yarn add body-parser` - библиотека лоя работы с боди запроса
 
+---
+#### TypeScript:
+- `yarn add typescript ts-node @types/node @types/express --dev` - добавить ts пакет
+- `yarn tsc --init` - создаём файл для подключения ts в проекте 
+в `tsconfig.json` поставить эти параметры `"rootDir": "./src"` `"outDir": "./dist"`
+```JSON
+"scripts": {
+	"dev": "nodemon dist/index.js",  
+	"inspect": "nodemon --inspect dist/index.js",
+	"watch": "tsc -w",
+	"build": "tsc",
+	"start": "node dist/index.js"  
+},
+```
 ---
 #### Подкючение и работа с mongoDB базой данных:
 - `yarn add mongodb`

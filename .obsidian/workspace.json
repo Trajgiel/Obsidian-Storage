@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "46e6579fe40da4ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Database/MongoDB.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a25173128d970f78",
             "type": "leaf",
             "state": {
@@ -56,12 +44,24 @@
             }
           },
           {
-            "id": "44192390e13e772c",
+            "id": "7822154cd3824692",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Base/Node.js/Install Nodejs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44192390e13e772c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Node.js/Node.js.md",
                 "mode": "preview",
                 "source": false
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Database/MongoDB.md",
+                "file": "Base/Node.js/Install Nodejs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Database/MongoDB.md",
+                "file": "Base/Node.js/Install Nodejs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,17 +190,17 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "a776335d03b3c4b7",
+  "active": "7822154cd3824692",
   "lastOpenFiles": [
+    "Base/Node.js/Node.js.md",
     "Base/Node.js/Install Nodejs.md",
+    "Base/React/Install React.md",
+    "Base/Redux/Redux Toolkit.md",
+    "Base/Node.js/HTTP.md",
+    "Base/Database/MongoDB.md",
     "Base/CSS/CSS.md",
     "Base/CSS/Flex-box.md",
-    "Base/Database/MongoDB.md",
     "Base/Database/Реляционная база данных.md",
-    "Base/React/Install React.md",
-    "Base/React/React.md",
-    "Base/Database/SQL.md",
-    "Base/Database/Типы данных SQL.md",
-    "Base/Database/Базы данных.md"
+    "Base/React/React.md"
   ]
 }
