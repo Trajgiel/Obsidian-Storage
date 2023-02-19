@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/CSS/CSS.md",
+                "file": "Base/Grid-box.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07879c44423ed960",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/CSS/Flex-box.md",
                 "mode": "preview",
                 "source": false
               }
@@ -68,6 +80,18 @@
             }
           },
           {
+            "id": "e1b61faa99dbd9ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Node.js/Install Nodejs.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a776335d03b3c4b7",
             "type": "leaf",
             "state": {
@@ -79,8 +103,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 247.5
   },
   "right": {
     "id": "7b5f879a9d0e5f0e",
@@ -138,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Node.js/Install Nodejs.md",
+                "file": "Base/Grid-box.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Node.js/Install Nodejs.md",
+                "file": "Base/Grid-box.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,17 +213,17 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "7822154cd3824692",
+  "active": "856b6db7d93da3ad",
   "lastOpenFiles": [
-    "Base/Node.js/Node.js.md",
-    "Base/Node.js/Install Nodejs.md",
-    "Base/React/Install React.md",
-    "Base/Redux/Redux Toolkit.md",
-    "Base/Node.js/HTTP.md",
-    "Base/Database/MongoDB.md",
     "Base/CSS/CSS.md",
+    "Files/align-items.png",
+    "Files/api.png",
+    "Base/Grid-box.md",
     "Base/CSS/Flex-box.md",
-    "Base/Database/Реляционная база данных.md",
-    "Base/React/React.md"
+    "Base/Redux/Redux Toolkit.md",
+    "Templates/Шаблон.md",
+    "Base/JavaScript/try...catch.md",
+    "Base/Node.js/Node.js.md",
+    "Base/Node.js/Install Nodejs.md"
   ]
 }
