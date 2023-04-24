@@ -104,6 +104,13 @@
         "a": 1,
         "rgb": 1139017
       }
+    },
+    {
+      "query": "Architecture",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
     }
   ],
   "collapse-display": true,
@@ -116,6 +123,6 @@
   "repelStrength": 11.7594654788419,
   "linkStrength": 1,
   "linkDistance": 251,
-  "scale": 0.6055376880734051,
+  "scale": 0.8489534826378031,
   "close": true
 }
