@@ -111,18 +111,25 @@
         "a": 1,
         "rgb": 16711680
       }
+    },
+    {
+      "query": "Next.js",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 0.8,
+  "nodeSizeMultiplier": 0.9421875,
   "lineSizeMultiplier": 0.980898876404494,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.457312546399406,
   "repelStrength": 11.7594654788419,
   "linkStrength": 1,
   "linkDistance": 251,
-  "scale": 0.8489534826378031,
+  "scale": 0.21974197863770029,
   "close": true
 }

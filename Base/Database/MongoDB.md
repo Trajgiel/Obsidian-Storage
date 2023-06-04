@@ -19,7 +19,7 @@ Tags: #MongoDB
 ---
 ### Добавление данных
 
-`db.users.insertOne({name: "Vladimir", age: 29})` - добавить документ в колекцию
+`db.users.create({name: "Vladimir", age: 29})` - добавить документ в колекцию
 `db.users.insertMany([
 {name: "Vladimir", age: 29},
 {name: "Alex", age: 24}

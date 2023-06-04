@@ -20,67 +20,85 @@
             }
           },
           {
-            "id": "55bc18a63a3ef040",
+            "id": "e0dfd71beff56881",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Architecture/Modular simple architecture.md",
+                "file": "Base/CSS/Animation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11178c3f1fb6d726",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
+          },
+          {
+            "id": "3e6e5bfb918ff4ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Next.js/Next.js.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67ceb8f3d8e19e2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/React/Mouse Event Handlers.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "f592c5fe1604fc86",
+            "id": "b983b07e911be30c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/JavaScript/push(...) pop().md",
+                "file": "Base/Database/MongoDB.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "04604d1d5921f3ac",
+            "id": "245ab6875554246d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Architecture/Architecture.md",
+                "file": "Base/Stream (поток).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cc62bf07cd9d9a0e",
+            "id": "55ff863d038277bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Architecture/Modular simple architecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8dee1dbceaabfda3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Feature sliced design.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -109,13 +127,21 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Architecture",
+                "query": "tag:#Nodejs",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "1d363f43f7a8d0cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -138,7 +164,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Feature sliced design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +180,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Feature sliced design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,43 +214,50 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "8dee1dbceaabfda3",
+  "active": "55ff863d038277bf",
   "lastOpenFiles": [
-    "Base/Architecture/Modular simple architecture.md",
-    "Base/Feature sliced design.md",
-    "Base/Architecture/Architecture.md",
-    "Files/feature_sliced_design_layers.jpg",
+    "Base/Stream (поток).md",
+    "Base/Node.js/Node.js.md",
+    "Base/Node.js/Install Nodejs.md",
+    "Base/Node.js/HTTP.md",
+    "Base/Database/MongoDB.md",
+    "Base/CSS/CSS.md",
+    "Base/Seo/sitemap.xml.md",
+    "Base/Redux/Redux Toolkit.md",
+    "Base/Seo",
+    "Без названия",
+    "Base/React/Install React.md",
+    "Base/Database/Базы данных.md",
     "Base/React/Mouse Event Handlers.md",
+    "Base/CSS/Flex-box.md",
+    "Base/React/React.md",
+    "Base/Next.js/Next.js.md",
+    "Base/JavaScript/JavaScript.md",
+    "Base/CSS/Animation.md",
+    "Base/CSS/Grid-box.md",
+    "Без названия.canvas",
+    "Base/Architecture/Architecture.md",
+    "Base/React/hook (Хуки).md",
+    "Base/Architecture/Modular simple architecture.md",
+    "Base/Next.js",
+    "Base/React/useNavigate.md",
+    "Base/React/useSearchParams.md",
+    "Base/React/useParams.md",
+    "Base/React/useCallback.md",
     "Base/JavaScript/push(...) pop().md",
+    "Base/Feature sliced design.md",
+    "Files/feature_sliced_design_layers.jpg",
     "Files/modular_architecture.jpg",
     "Files/modular_architecture_pages_2.jpg",
     "Files/modular_architecture_pages_1.jpg",
-    "Base/React/Install React.md",
-    "Base/React/React.md",
-    "Base/CSS/Flex-box.md",
-    "Base/modular_architecture_modules_1.jpg.md",
-    "Base/React/createPortal().md",
-    "Base/JavaScript/Методы массива.md",
-    "Base/JavaScript/unshift(...) shift().md",
-    "Base/CSS/CSS.md",
     "Files/modular_architecture_modules_2.jpg",
     "Files/modular_architecture_modules_3.jpg",
     "Files/modular_architecture_modules_1.jpg",
     "Files/modular_architecture_components.jpg",
     "Files/modular_architecture_components_1.jpg",
     "Files/modular_architecture_components_3.jpg",
-    "Base/React/hook (Хуки).md",
-    "Без названия.canvas",
     "desktop.ini",
-    "Base/CSS/Grid-box.md",
-    "Base/REST API.md",
-    "Templates/Шаблон.md",
     "Без названия 1.canvas",
-    "Base/Architecture",
-    "Base/JavaScript/reduce().md",
-    "Base/Database/MongoDB.md",
-    "Base/Redux/Redux Toolkit.md",
-    "Base/JavaScript/try...catch.md",
-    "Base/Node.js/Node.js.md"
+    "Base/Architecture"
   ]
 }
