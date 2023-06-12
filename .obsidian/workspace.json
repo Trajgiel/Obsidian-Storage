@@ -20,28 +20,6 @@
             }
           },
           {
-            "id": "e0dfd71beff56881",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/CSS/Animation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11178c3f1fb6d726",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
-              }
-            }
-          },
-          {
             "id": "3e6e5bfb918ff4ce",
             "type": "leaf",
             "state": {
@@ -54,51 +32,43 @@
             }
           },
           {
-            "id": "67ceb8f3d8e19e2a",
+            "id": "11178c3f1fb6d726",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/React/Mouse Event Handlers.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b983b07e911be30c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Database/MongoDB.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "245ab6875554246d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Stream (поток).md",
+                "file": "Base/Библиотеки.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "55ff863d038277bf",
+            "id": "b21edf6d18142d80",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Base/React/Framer Motion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c7b328b1b67fa50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/React/React.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -127,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Nodejs",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -164,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/React/React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Base/React/React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,26 +186,31 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "55ff863d038277bf",
+  "active": "5c7b328b1b67fa50",
   "lastOpenFiles": [
+    "Base/React/React.md",
+    "Base/React/Framer Motion.md",
+    "Base/React/Install React.md",
+    "Base/Next.js/Next.js.md",
+    "Base/Библиотеки.md",
+    "Base/Formik/Formik.md",
+    "Base/Axios/Axios.md",
+    "Base/CSS/Flex-box.md",
+    "Base/CSS/Animation.md",
+    "Без названия",
+    "Base/React/Mouse Event Handlers.md",
     "Base/Stream (поток).md",
+    "Base/Database/MongoDB.md",
+    "Base/Feature sliced design.md",
     "Base/Node.js/Node.js.md",
     "Base/Node.js/Install Nodejs.md",
     "Base/Node.js/HTTP.md",
-    "Base/Database/MongoDB.md",
     "Base/CSS/CSS.md",
     "Base/Seo/sitemap.xml.md",
     "Base/Redux/Redux Toolkit.md",
     "Base/Seo",
-    "Без названия",
-    "Base/React/Install React.md",
     "Base/Database/Базы данных.md",
-    "Base/React/Mouse Event Handlers.md",
-    "Base/CSS/Flex-box.md",
-    "Base/React/React.md",
-    "Base/Next.js/Next.js.md",
     "Base/JavaScript/JavaScript.md",
-    "Base/CSS/Animation.md",
     "Base/CSS/Grid-box.md",
     "Без названия.canvas",
     "Base/Architecture/Architecture.md",
@@ -241,11 +218,6 @@
     "Base/Architecture/Modular simple architecture.md",
     "Base/Next.js",
     "Base/React/useNavigate.md",
-    "Base/React/useSearchParams.md",
-    "Base/React/useParams.md",
-    "Base/React/useCallback.md",
-    "Base/JavaScript/push(...) pop().md",
-    "Base/Feature sliced design.md",
     "Files/feature_sliced_design_layers.jpg",
     "Files/modular_architecture.jpg",
     "Files/modular_architecture_pages_2.jpg",
