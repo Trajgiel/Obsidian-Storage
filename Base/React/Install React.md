@@ -12,10 +12,7 @@ __
 - Redux-Thunk - `yarn add redux-thunk`
 - [Redux-Toolkit](https://redux-toolkit.js.org/) - `yarn add @reduxjs/toolkit`
 - React-hooks-global-state - `yarn add react-hooks-global-state`
----
-#### Формы:
-- [formik](https://formik.org/docs/overview) - `yarn add formik`
-- Redux-Form - `yarn add redux-form @types/redux-form`
+
 ---
 #### Роутинг:
 - [React-Router-Dom](https://reactrouter.com/en/v6.3.0) - `yarn add react-router-dom @types/react-router-dom`

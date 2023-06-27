@@ -8,67 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "856b6db7d93da3ad",
+            "id": "3421abdc0614bf7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/CSS/Flex-box.md",
-                "mode": "source",
+                "file": "Base/Node.js/Node.js.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "3e6e5bfb918ff4ce",
+            "id": "25fcbd9886a1787b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Next.js/Next.js.md",
-                "mode": "source",
+                "file": "Base/Node.js/Install Nodejs.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "11178c3f1fb6d726",
+            "id": "b7537c902563942c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Библиотеки.md",
-                "mode": "source",
+                "file": "Base/Architecture/Architecture.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "b21edf6d18142d80",
+            "id": "da491faf3fa46b20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/React/Framer Motion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c7b328b1b67fa50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/React/React.md",
-                "mode": "source",
+                "file": "Base/Architecture/Feature sliced design.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Formik",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/React/React.md",
+                "file": "Base/Architecture/Feature sliced design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/React/React.md",
+                "file": "Base/Architecture/Feature sliced design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,48 +174,48 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "5c7b328b1b67fa50",
+  "active": "da491faf3fa46b20",
   "lastOpenFiles": [
-    "Base/React/React.md",
+    "Files/feature_sliced_design_layers_app.jpg",
+    "Files/feature_sliced_design_layers_pages.jpg",
+    "Files/feature_sliced_design_layers_features.jpg",
+    "Base/Architecture/Architecture.md",
+    "Base/Architecture/Feature sliced design.md",
+    "Files/feature_sliced_design_layers_entites_4.jpg",
+    "Files/feature_sliced_design_layers_entites_3.jpg",
+    "Files/feature_sliced_design_layers_entites_2.jpg",
+    "Files/feature_sliced_design_layers_entites_1.jpg",
+    "Files/feature_sliced_design_layers_shared_2.jpg",
+    "Files/feature_sliced_design_layers_shared_1.jpg",
+    "Files/feature_sliced_design_layers_shared_3.jpg",
+    "Files/feature_sliced_design_layers_shared.jpg",
+    "Base/JavaScript/reduce().md",
+    "Base/JavaScript/Методы массива.md",
+    "Base/Architecture/Modular simple architecture.md",
+    "Base/Node.js/Node.js.md",
+    "Base/Database/Базы данных.md",
+    "Base/Node.js/Install Nodejs.md",
+    "Base/Node.js/Stream (поток).md",
+    "Base/React/Библиотеки.md",
     "Base/React/Framer Motion.md",
     "Base/React/Install React.md",
-    "Base/Next.js/Next.js.md",
-    "Base/Библиотеки.md",
+    "Base/Redux/Redux Toolkit.md",
     "Base/Formik/Formik.md",
-    "Base/Axios/Axios.md",
+    "Base/GitHub/GitHub-pages.md",
+    "Base/React/React.memo.md",
+    "Base/React/hoc.md",
+    "Base/React/React.md",
+    "Base/Database/MongoDB.md",
     "Base/CSS/Flex-box.md",
+    "Base/Next.js/Next.js.md",
+    "Base/Axios/Axios.md",
     "Base/CSS/Animation.md",
     "Без названия",
     "Base/React/Mouse Event Handlers.md",
-    "Base/Stream (поток).md",
-    "Base/Database/MongoDB.md",
-    "Base/Feature sliced design.md",
-    "Base/Node.js/Node.js.md",
-    "Base/Node.js/Install Nodejs.md",
     "Base/Node.js/HTTP.md",
-    "Base/CSS/CSS.md",
-    "Base/Seo/sitemap.xml.md",
-    "Base/Redux/Redux Toolkit.md",
     "Base/Seo",
-    "Base/Database/Базы данных.md",
-    "Base/JavaScript/JavaScript.md",
-    "Base/CSS/Grid-box.md",
     "Без названия.canvas",
-    "Base/Architecture/Architecture.md",
-    "Base/React/hook (Хуки).md",
-    "Base/Architecture/Modular simple architecture.md",
     "Base/Next.js",
-    "Base/React/useNavigate.md",
-    "Files/feature_sliced_design_layers.jpg",
-    "Files/modular_architecture.jpg",
-    "Files/modular_architecture_pages_2.jpg",
-    "Files/modular_architecture_pages_1.jpg",
-    "Files/modular_architecture_modules_2.jpg",
-    "Files/modular_architecture_modules_3.jpg",
-    "Files/modular_architecture_modules_1.jpg",
-    "Files/modular_architecture_components.jpg",
-    "Files/modular_architecture_components_1.jpg",
-    "Files/modular_architecture_components_3.jpg",
     "desktop.ini",
     "Без названия 1.canvas",
     "Base/Architecture"
