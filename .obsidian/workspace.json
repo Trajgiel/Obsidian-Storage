@@ -37,26 +37,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Architecture/Architecture.md",
+                "file": "Base/Architecture/Feature sliced design.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "da491faf3fa46b20",
+            "id": "462821abad5c30be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Architecture/Feature sliced design.md",
+                "file": "Base/Next.js/hooks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c63fdded997eb65b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Next.js/useRouter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a67061130555fa5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Git/Git.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Architecture/Feature sliced design.md",
+                "file": "Base/Git/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Architecture/Feature sliced design.md",
+                "file": "Base/Git/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,45 +198,45 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "da491faf3fa46b20",
+  "active": "a67061130555fa5c",
   "lastOpenFiles": [
+    "Base/Brainstorm/Мозговой штурм.md",
+    "Base/Brainstorm/Управляемый мозговой штурм.md",
+    "Base/Git/Git.md",
+    "Files/git_reser_current_branch_to_here.jpg",
+    "Files/git_revert_commit.jpg",
+    "Files/git_commit.jpg",
+    "Files/git_rollback.jpg",
+    "Files/git_amend.jpg",
+    "Files/git_edi_commit_message.jpg",
+    "Base/JavaScript/sort().md",
+    "Base/React/GitHub-pages.md",
+    "Base/React/React.md",
+    "Base/React/Install React.md",
+    "Base/Git",
+    "Base/JavaScript/filter().md",
+    "Base/JavaScript/unshift(...) shift().md",
+    "Base/JavaScript/Методы массива.md",
+    "Base/Architecture/Feature sliced design.md",
+    "Base/Architecture/Architecture.md",
+    "Base/Next.js/hooks.md",
+    "Base/Next.js/useRouter.md",
+    "Base/Next.js/Next.js.md",
+    "Base/Axios/Axios.md",
+    "Base/React/hook (Хуки).md",
+    "Base/React/useState.md",
+    "Templates/Шаблон.md",
+    "Base/undefined.md",
+    "Base/null.md",
+    "Base/React/Framer Motion.md",
+    "Base/Database/MongoDB.md",
+    "Base/JavaScript/push(...) pop().md",
+    "Base/CSS/Grid-box.md",
+    "Base/React/Библиотеки.md",
     "Files/feature_sliced_design_layers_app.jpg",
     "Files/feature_sliced_design_layers_pages.jpg",
     "Files/feature_sliced_design_layers_features.jpg",
-    "Base/Architecture/Architecture.md",
-    "Base/Architecture/Feature sliced design.md",
     "Files/feature_sliced_design_layers_entites_4.jpg",
-    "Files/feature_sliced_design_layers_entites_3.jpg",
-    "Files/feature_sliced_design_layers_entites_2.jpg",
-    "Files/feature_sliced_design_layers_entites_1.jpg",
-    "Files/feature_sliced_design_layers_shared_2.jpg",
-    "Files/feature_sliced_design_layers_shared_1.jpg",
-    "Files/feature_sliced_design_layers_shared_3.jpg",
-    "Files/feature_sliced_design_layers_shared.jpg",
-    "Base/JavaScript/reduce().md",
-    "Base/JavaScript/Методы массива.md",
-    "Base/Architecture/Modular simple architecture.md",
-    "Base/Node.js/Node.js.md",
-    "Base/Database/Базы данных.md",
-    "Base/Node.js/Install Nodejs.md",
-    "Base/Node.js/Stream (поток).md",
-    "Base/React/Библиотеки.md",
-    "Base/React/Framer Motion.md",
-    "Base/React/Install React.md",
-    "Base/Redux/Redux Toolkit.md",
-    "Base/Formik/Formik.md",
-    "Base/GitHub/GitHub-pages.md",
-    "Base/React/React.memo.md",
-    "Base/React/hoc.md",
-    "Base/React/React.md",
-    "Base/Database/MongoDB.md",
-    "Base/CSS/Flex-box.md",
-    "Base/Next.js/Next.js.md",
-    "Base/Axios/Axios.md",
-    "Base/CSS/Animation.md",
-    "Без названия",
-    "Base/React/Mouse Event Handlers.md",
-    "Base/Node.js/HTTP.md",
     "Base/Seo",
     "Без названия.canvas",
     "Base/Next.js",
