@@ -41,7 +41,7 @@ const [visibility, setVisibility] = useState(false);
 			animate={{ height: 'auto' }} // Изменения на момент анимации
 			exit={{ height: 0 }} // Анимация на исчезновение из ДОМ дерева
 			transition={{ duration: 0.5 }} // Настройки анимации
-			styles={{verflow: 'hidden'}}
+			style={{overflow: 'hidden'}}
 		>	
 			Появляющийся текс
 		</motion.p>
