@@ -40,8 +40,41 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8ba550fd6d6ff1c8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "c2688949d9912941",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Prettier.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a4d78582e4454fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Node.js/Install Nodejs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -70,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Formik",
+                "query": "Prettier",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -107,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/React/Framer Motion.md",
+                "file": "Base/Prettier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/React/Framer Motion.md",
+                "file": "Base/Prettier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,11 +202,20 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "a086f0146d586f89",
+  "active": "c2688949d9912941",
   "lastOpenFiles": [
+    "Base/Node.js/Install Nodejs.md",
+    "Base/Prettier.md",
+    "Base/Node.js/Node.js.md",
+    "Base/Node.js/JWT.md",
+    "Base/Node.js/Stream (поток).md",
+    "Base/Database/Базы данных.md",
+    "Base/React/React.md",
+    "Templates/Шаблон.md",
+    "Base/bigInt.md",
+    "Base/React/Framer Motion.md",
     "Base/TypeScript/TypeScript.md",
     "Base/Architecture/Feature sliced design.md",
-    "Base/React/Framer Motion.md",
     "Base/React/Библиотеки.md",
     "Base/Seo/sitemap.xml.md",
     "Base/CSS/Grid-box.md",
@@ -187,16 +229,7 @@
     "Base/CSS/Flex-box.md",
     "Base/JavaScript/Типы данных.md",
     "Base/JavaScript/Массивы.md",
-    "Base/bigInt.md",
     "Base/JavaScript/number.md",
-    "Base/React/useEffect.md",
-    "Base/React/React.md",
-    "Base/Node.js/Node.js.md",
-    "Base/Database/Базы данных.md",
-    "Base/CSS/Animation.md",
-    "Base/Browser/DOM.md",
-    "Base/Browser/DOMContentLoaded.md",
-    "Base/Brainstorm/Мозговой штурм.md",
     "Без названия.canvas",
     "Files/git_reser_current_branch_to_here.jpg",
     "Files/git_revert_commit.jpg",

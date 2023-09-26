@@ -4,7 +4,10 @@ __
 ## Install
 
 ---
-`yarn init -y` - проинициализировать сервер  
+`npm init -y` - проинициализировать сервер 
+`npm i -D typescript ` - установить TypeScript локально
+`npm i @types/node -D ` - типизация для Node.js
+`npx tsc --init` - проинициализировать TypeScript, создать tsconfig.json
 
 ---
 
@@ -19,7 +22,7 @@ __
 
 - `yarn add express` - библиотека express
 - `yarn add cors` - библиотека cors  
-- `yarn add body-parser` - библиотека лоя работы с боди запроса
+- `yarn add body-parser` - библиотека для работы с боди запроса
 
 ---
 #### TypeScript:
