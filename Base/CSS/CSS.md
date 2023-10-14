@@ -25,5 +25,6 @@ CSS — формальный язык описания внешнего вида
 ---
 cursor: pointer;
 box-shadow: 0 5px 15px rgb(0 0 0 / 30%);
+clamp()
 __
 ### Links

@@ -8,41 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a086f0146d586f89",
+            "id": "d30840335a81e3e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/React/Framer Motion.md",
+                "file": "Base/Node.js/Node.js.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "010ad780840f4f96",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
-            }
-          },
-          {
-            "id": "101697926f8a4375",
+            "id": "5234e1d7137d8ab9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/TypeScript/TypeScript.md",
+                "file": "Base/Node.js/Install Nodejs.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "8ba550fd6d6ff1c8",
+            "id": "af3a73c1c6d446f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Node.js/JWT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb9653a6ef9e9764",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/React/Context API.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d991c96ed5e065a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/CSS/Flex-box.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c33bf2ff2a877b96",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -50,31 +76,17 @@
             }
           },
           {
-            "id": "c2688949d9912941",
+            "id": "83ed4887278e9805",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Base/Prettier.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a4d78582e4454fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Node.js/Install Nodejs.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.4.16"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -140,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Prettier.md",
+                "file": "Base/Node.js/Node.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Prettier.md",
+                "file": "Base/Node.js/Node.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,34 +214,36 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "c2688949d9912941",
+  "active": "83ed4887278e9805",
   "lastOpenFiles": [
+    "Base/React/Компоненты.md",
+    "Base/Typography.md",
+    "Base/React/unmountComponentAtNode().md",
+    "Base/React/class Component.md",
+    "Base/React/props.md",
+    "Base/React/React.md",
+    "Base/CSS/Flex-box.md",
+    "Base/React/Context API.md",
     "Base/Node.js/Install Nodejs.md",
-    "Base/Prettier.md",
-    "Base/Node.js/Node.js.md",
     "Base/Node.js/JWT.md",
+    "Base/Node.js/Node.js.md",
+    "Files/JWT_token.jpg",
+    "Files/JWT.jpg",
+    "Base/CSS/CSS.md",
+    "Base/React/useNavigate.md",
+    "Base/React/hook (Хуки).md",
+    "Base/React/Install React.md",
+    "Base/React/Библиотеки.md",
+    "Base/TypeScript/TypeScript.md",
+    "Base/React/Framer Motion.md",
+    "Base/React-Router/React-Router.md",
+    "Base/Prettier.md",
     "Base/Node.js/Stream (поток).md",
     "Base/Database/Базы данных.md",
-    "Base/React/React.md",
     "Templates/Шаблон.md",
     "Base/bigInt.md",
-    "Base/React/Framer Motion.md",
-    "Base/TypeScript/TypeScript.md",
     "Base/Architecture/Feature sliced design.md",
-    "Base/React/Библиотеки.md",
     "Base/Seo/sitemap.xml.md",
-    "Base/CSS/Grid-box.md",
-    "Base/React/hook (Хуки).md",
-    "README.md",
-    "Base/Architecture/Architecture.md",
-    "Base/Database/MongoDB.md",
-    "Base/Redux/Redux Toolkit.md",
-    "Base/JavaScript/class.md",
-    "Base/CSS/CSS.md",
-    "Base/CSS/Flex-box.md",
-    "Base/JavaScript/Типы данных.md",
-    "Base/JavaScript/Массивы.md",
-    "Base/JavaScript/number.md",
     "Без названия.canvas",
     "Files/git_reser_current_branch_to_here.jpg",
     "Files/git_revert_commit.jpg",
@@ -240,8 +254,6 @@
     "Base/Git",
     "Files/feature_sliced_design_layers_app.jpg",
     "Files/feature_sliced_design_layers_pages.jpg",
-    "Files/feature_sliced_design_layers_features.jpg",
-    "Files/feature_sliced_design_layers_entites_4.jpg",
     "Base/Seo",
     "Base/Next.js",
     "desktop.ini",

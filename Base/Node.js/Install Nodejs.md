@@ -39,9 +39,8 @@ __
 },
 ```
 ---
-#### Подкючение и работа с mongoDB базой данных:
-- `yarn add mongodb`
-- `yarn add mongoose`
+#### Подключение и работа с mongoDB базой данных:
+- `npm i mongodb mongoose`
 
 ---
 #### Работа с почтой: 
