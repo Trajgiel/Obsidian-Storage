@@ -10,5 +10,9 @@ Tags: #nextjs
 
 [[hooks]] - ...
 
+---
+
+[[Next.js 15]] - ...
+
 __
 ### Links
