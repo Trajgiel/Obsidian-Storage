@@ -1,9 +1,17 @@
 2025-01-03 10:43
 Tags: #nextjs 
 
+## Содержание:
+- [React Compiler](#React_Compiler)
+- [Исправление поведения кэширования](#Исправление_поведения_кэширования)
+- [Partial Prerendering (PPR)](#Partial_Prerendering_(PPR))
+- [API next/after](#API_next/after)
+- [Оптимизация бандлинга внешних пакетов](#Оптимизация_бандлинга_внешних_пакетов)
+
 ---
 
-### React Compiler
+### React_Compiler
+
 это долгожданное улучшение. Он автоматически оптимизирует код и мемоизирует компоненты, самостоятельно определяя, где это необходимо, чтобы избежать лишних перерисовок. Это устранит одну из главных проблем разработчиков. Подключить компилятор можно через ‘next.config.js’
 ```js
 const nextConfig = {  
@@ -17,7 +25,8 @@ module.exports = nextConfig;
 
 ---
 
-### Исправление поведения кэширования
+### Исправление_поведения_кэширования
+
 По умолчанию используется флаг ‘no-store’, который отключает кэширование и гарантирует получение актуальной информации.
 ```js
 // было:
@@ -31,7 +40,8 @@ fetch("https:// …" , { cache: 'no-store' });
 
 ---
 
-### Partial Prerendering (PPR)
+### Partial_Prerendering_(PPR)
+
 Эта экспериментальная функция впервые появилась в версии 14 и продолжает дорабатываться. Partial Prerendering делит страницу на сегменты, часть из которых будет сгенерирована статично, а другая — динамично. Это позволяет рендерить страницу частично статически и частично динамически, что улучшает производительность и пользовательский опыт.
 ```js
 import { Suspense } from "react";
@@ -66,7 +76,8 @@ module.exports = nextConfig;
 
 ---
 
-### API next/after
+### API_next/after
+
 API after() разделяет задачи на сервере на "основные" и "вторичные". Это позволяет клиенту получать ответ быстрее, так как вторичные задачи (например, логирование или аналитика) выполняются позже. Сейчас клиенту приходится ждать, пока "вторичные" задачи завершатся, прежде чем он получит ответ на запрос. Однако after()изменит этот порядок. Например, если мы хотим посмотреть видео на сайте, то по логике after() сначала загрузится интересующий нас контент, и только потом начнется выполнение аналитики и других второстепенных задач на сайте.
 
 Пример использования after():
@@ -99,10 +110,11 @@ module.exports = nextConfig;
 
 ---
 
-### Оптимизация бандлинга внешних пакетов (стабильная версия)
+### Оптимизация_бандлинга_внешних_пакетов
+
 Теперь у разработчиков есть больше возможностей контролировать, какие пакеты попадают в бандл, что позволяет значительно уменьшить его размер.
 
-Опция bundlePagesRouterDependencies включает автоматическое объединение зависимостей на стороне сервера для приложений, использующих Pages Router:
+Опция *\*bundlePagesRouterDependencies** включает автоматическое объединение зависимостей на стороне сервера для приложений, использующих Pages Router:
 ```js
 /** @type {import('next').NextConfig} */
 const nextConfig = {  
@@ -111,6 +123,57 @@ const nextConfig = {
 
 module.exports = nextConfig;
 ```
+
+Вы можете использовать опцию **serverExternalPackages**, чтобы отказаться от определенных пакетов, если это необходимо. Чтобы исключить пакеты из бандла используйте:
+```js
+const nextConfig = {
+  // Automatically bundle external packages in the Pages Router:
+  bundlePagesRouterDependencies: true,
+  // Opt specific packages out of bundling for both App и Pages Router:
+  serverExternalPackages: ['package-name'],
+};
+
+module.exports = nextConfig;
+```
+
+С помощью опции  [transpilePackages](https://nextjs.org/docs/pages/api-reference/next-config-js/transpilePackages) Next.js может автоматически транспилировать и бандлить зависимости из локальных пакетов (например, монорепозиториев) или внешних зависимостей (node_modules). Это заменяет пакет next-transpile-modules.
+
+С помощью опции **transpilePackages** Next.js может автоматически транспилировать и бандлить зависимости из локальных пакетов (например, из монорепозиториев) или внешних зависимостей (node_modules). Эта опция заменяет пакет next-transpile-modules:
+
+```js
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  transpilePackages: ['package-name'],
+};
+
+module.exports = nextConfig;
+```
+
+Опция **optimizePackageImports** позволит загружать только те модули, которые вы действительно используете:
+
+```js
+/** @type {import('next').NextConfig} */
+const nextConfig = {  
+  experimental: {    
+    optimizePackageImports: ['icon-library'],  
+  },
+};
+
+module.exports = nextConfig;
+```
+
+Опция **serverExternalPackages** позволяет исключить из объединения определенные пакеты:
+
+```js
+/** @type {import('next').NextConfig} */
+const nextConfig = {  
+  serverExternalPackages: ['package-name'],
+};
+
+module.exports = nextConfig;
+```
+
+Подробнее о технологии можно почитать [здесь](https://nextjs.org/docs/app/building-your-application/optimizing/package-bundling).
 
 ---
 ### Links
