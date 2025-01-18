@@ -8,76 +8,73 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d67d074c0c93338",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Next.js/Next.js 15.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Next.js 15"
-            }
-          },
-          {
-            "id": "52840b8fbbcf7fd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/TypeScript/TypeScript.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TypeScript"
-            }
-          },
-          {
             "id": "af3a73c1c6d446f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Node.js/Node.js.md",
+                "file": "Base/Node.js/Auth.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Auth"
+            }
+          },
+          {
+            "id": "cd48092a412c1592",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Node.js/JWT Token.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JWT Token"
+            }
+          },
+          {
+            "id": "3354f2d728eefb07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Node.js/OAuth 2.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Node.js"
+              "title": "OAuth 2.0"
             }
           },
           {
-            "id": "eb9653a6ef9e9764",
+            "id": "a538844f930e26f0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "2b2b3518c51c295f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/React/Context API.md",
+                "file": "Base/Node.js/Session.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Context API"
-            }
-          },
-          {
-            "id": "d991c96ed5e065a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/CSS/Flex-box.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Flex-box"
+              "title": "Session"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,9 +105,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Prettier",
+                "query": "",
                 "matchingCase": false,
-                "explainSearch": true,
+                "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -219,34 +216,39 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "5d67d074c0c93338",
+  "active": "a538844f930e26f0",
   "lastOpenFiles": [
+    "Base/Node.js/OAuth 2.0.md",
+    "Base/Node.js/Auth.md",
+    "Base/Node.js/JWT Token.md",
+    "Base/Node.js/Session.md",
+    "Base/Node.js/Node.js.md",
+    "Base/Node.js/Stream (поток).md",
+    "Files/token_based.png",
+    "Files/session.png",
+    "Без названия",
+    "Base/Node.js/HTTP.md",
+    "Base/Node.js/JWT.md",
     "Base/TypeScript/TypeScript.md",
-    "Base/Next.js/Next.js 15.md",
+    "Base/Typography.md",
+    "Без названия 1.canvas",
+    "Без названия.canvas",
+    "Base/Prettier.md",
+    "Base/bigInt.md",
+    "Base/Database/MongoDB.md",
+    "Base/Database/Типы связей.md",
+    "Base/Database/SQL.md",
+    "Base/Database/Prisma.md",
+    "Base/Git/Git.md",
+    "Base/Architecture/Feature sliced design.md",
     "Base/Architecture/Modular simple architecture.md",
     "Base/Architecture/Architecture.md",
-    "Base/Node.js/Node.js.md",
-    "Base/Architecture/Feature sliced design.md",
-    "Base/Node.js/Install Nodejs.md",
-    "Base/React/unmountComponentAtNode().md",
-    "Base/React/render().md",
-    "Base/React/useNavigate.md",
-    "Base/React-Router/React-Router.md",
-    "Base/Axios/Axios.md",
-    "Base/Brainstorm/Метод номинальных групп.md",
-    "Base/Brainstorm/Мозговой штурм.md",
-    "Base/Brainstorm/Перекрёстная намётка идей.md",
-    "Base/Brainstorm/Управляемый мозговой штурм.md",
-    "Base/Browser/Погружение.md",
-    "Base/Browser/Всплытие.md",
-    "Base/Browser/Event Loop.md",
-    "Base/Browser/Single Page Application.md",
-    "Base/Browser/DOMContentLoaded.md",
-    "Base/Browser/DOM.md",
-    "Base/CSS/SASS.md",
-    "Base/CSS/Grid-box.md",
     "Base/CSS/Flex-box.md",
-    "Base/CSS/CSS.md",
+    "Base/React/Context API.md",
+    "Base/React/React.md",
+    "Base/Redux/Redux Toolkit.md",
+    "Base/Database/Реляционная база данных.md",
+    "Base/Database/Базы данных.md",
     "Files/feature_sliced_design_layers_abs.jpg",
     "Files/feature_sliced_design_layers_app.jpg",
     "Files/feature_sliced_design_layers_entites_1.jpg",
@@ -255,14 +257,10 @@
     "Files/feature_sliced_design_layers_pages.jpg",
     "Files/feature_sliced_design_layers_shared_1.jpg",
     "Files/feature_sliced_design_layers_shared_2.jpg",
-    "Files/feature_sliced_design_layers_src.jpg",
-    "Files/feature_sliced_design_layers_shared_3.jpg",
-    "Без названия.canvas",
     "Base/Git",
     "Base/Seo",
     "Base/Next.js",
     "desktop.ini",
-    "Без названия 1.canvas",
     "Base/Architecture"
   ]
 }
