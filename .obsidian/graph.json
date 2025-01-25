@@ -125,6 +125,13 @@
         "a": 1,
         "rgb": 15749168
       }
+    },
+    {
+      "query": "Nest.js",
+      "color": {
+        "a": 1,
+        "rgb": 14821973
+      }
     }
   ],
   "collapse-display": true,
@@ -137,6 +144,6 @@
   "repelStrength": 11.7594654788419,
   "linkStrength": 1,
   "linkDistance": 251,
-  "scale": 0.6931676159404777,
-  "close": true
+  "scale": 0.41673568083982115,
+  "close": false
 }

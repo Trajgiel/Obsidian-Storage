@@ -9,12 +9,31 @@ Tags: #prisma
 
 Установка prisma в проект
 ```
-npm i @prisma/client
+npm i -D @prisma/client
+npx prisma init
 ```
 
 Создание миграции
 ```
 npx prisma migrate dev --name initialization
+```
+
+---
+
+```json
+model UserModel {
+  id                Int                   @id @default(autoincrement())
+  email             String                @unique
+  firstName         String
+  lastName          String
+  age               Int
+  hashPassword      String                @map("hash_password")
+  
+  createdAt         DateTome              @default(now())
+  updatedAt         DateTome              @uodatedAt
+
+  @@map("users")
+}
 ```
 
 ---
