@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "docker",
+                "query": "vite",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +130,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -201,13 +202,23 @@
               "icon": "lucide-archive",
               "title": "Все свойства"
             }
+          },
+          {
+            "id": "51b8832a519ad01c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,11 +228,13 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "markdown-importer:Импорт Markdown-файлов": false
+      "markdown-importer:Импорт Markdown-файлов": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "66e29c2e34c6e430",
   "lastOpenFiles": [
+    "Files/exception_filters_rest_1.png",
     "Base/Node.js/Nest.js.md",
     "Base/Database/Prisma.md",
     "Base/Docker.md",
@@ -259,7 +272,6 @@
     "Base/Architecture/Feature sliced design.md",
     "Base/Architecture/Modular simple architecture.md",
     "Base/Architecture/Architecture.md",
-    "Base/CSS/Flex-box.md",
     "Files/feature_sliced_design_layers_abs.jpg",
     "Base/Git",
     "Base/Seo",
