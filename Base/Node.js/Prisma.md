@@ -38,4 +38,4 @@ model UserModel {
 
 ---
 ### Links
-[[Базы данных]]
+[[Node.js]]

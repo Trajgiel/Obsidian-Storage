@@ -29,17 +29,11 @@ chrome://inspect - это средство дебага
 
 [[Nest.js]] - это фреймворк для создания эффективных и масштабируемых се￼￼Содержание:рверных приложений [Node.js](https://nodejs.org/).
 
+---
+
+[[Prisma]] - это инструмент, позволяющий работать с реляционными (PostgreSQL, MySQL, SQL Server, SQLite) и нереляционной (MongoDB) базами данных...
 
 ---
-Создание endPoint на сервере выглядит примерно так:
-```js
-function getUsers() {
-	const users = database.fildUsers()
-	return users;
-}
-
-app.get('/api/users', getUsers)
-```
 
 __
 ### Links
