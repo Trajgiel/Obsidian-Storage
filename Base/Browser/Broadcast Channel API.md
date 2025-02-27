@@ -1,5 +1,5 @@
 2025-02-23 18:51
-Tags: #BroadcastChannelAPI
+Tags: #Browser #BroadcastChannelAPI
 
 Этот API позволяет вкладкам одного происхождения (same-origin) обмениваться сообщениями в реальном времени, что делает его идеальным для синхронизации состояния между вкладками.
 
@@ -57,4 +57,4 @@ channel.close();
 
 ---
 ### Links
-[[JavaScript]]
+[[Browser]]
