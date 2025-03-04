@@ -13,8 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Interview.md",
+                "file": "Base/React/React.md",
                 "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "React"
+            }
+          },
+          {
+            "id": "50699dcb5085d418",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/React/Рендеринг в React.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Рендеринг в React"
+            }
+          },
+          {
+            "id": "6dd9c1cf39d10935",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Interview.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -204,16 +232,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5246f27d60b0d7cf",
+  "active": "50699dcb5085d418",
   "lastOpenFiles": [
-    "Base/Node.js/Nest.js.md",
-    "Base/JavaScript/this.md",
+    "Base/React/GitHub-pages.md",
+    "Base/React/React.md",
+    "Base/React/Компоненты.md",
+    "Base/React/Рендеринг в React.md",
     "Base/Interview.md",
+    "Base/Глобальный контекс.md",
+    "Base/JavaScript/this.md",
+    "Base/Node.js/Nest.js.md",
     "Base/Node.js/Prisma.md",
     "Base/Node.js/Session.md",
-    "Base/Глобальный контекс.md",
     "Base/JavaScript/JavaScript.md",
-    "Base/Рендеринг в React.md",
     "Base/Browser/Рендеринг в браузере.md",
     "Base/Browser/Broadcast Channel API.md",
     "Base/CSS/Flex-box.md",
@@ -223,15 +254,12 @@
     "Base/Рендеринг.md",
     "Base/().md",
     "Base/React/Framer Motion.md",
-    "Base/React/React.md",
     "Base/Next.js/Next.js.md",
     "Base/Architecture/Feature sliced design.md",
     "Base/Architecture/Architecture.md",
     "Base/CSS/CSS.md",
     "Base/Browser/Event Loop.md",
     "Base/Browser/Всплытие.md",
-    "Base/Browser/Browser.md",
-    "Base/Next.js/Next.js 15.md",
     "Без названия",
     "Без названия 1.canvas",
     "Без названия.canvas",
