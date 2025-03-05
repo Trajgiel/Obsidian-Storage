@@ -60,3 +60,4 @@ foo2.bind({name: 'Vladimir'}, 1, 2, 3)()
 ---
 ### Links
 [[JavaScript]]
+[Полный разбор THIS в JavaScript (YouTube)](https://www.youtube.com/watch?v=aFxQvCqrUC0)
