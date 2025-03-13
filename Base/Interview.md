@@ -24,10 +24,12 @@ Tags: #Interview
 
 ## [[JavaScript]]
 
-| <input type="checkbox"> | К какой парадигме относится язык? |               |
-| ----------------------- | --------------------------------- | ------------- |
-| <input type="checkbox"> | this в JavaScript                 | [[this]]      |
-| <input type="checkbox"> | Замыкание                         | [[Замыкание]] |
+| <input type="checkbox"> | К какой парадигме относится язык? |                  |
+| ----------------------- | --------------------------------- | ---------------- |
+| <input type="checkbox"> | this в JavaScript                 | [[this]]         |
+| <input type="checkbox"> | Замыкание                         | [[Замыкание]]    |
+| <input type="checkbox"> | prototype                         | [[prototype]]    |
+| <input type="checkbox"> | Каррирование                      | [[Каррирование]] |
 
 ---
 
