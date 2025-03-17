@@ -22,49 +22,35 @@
             }
           },
           {
-            "id": "984ae28849c0dd8a",
+            "id": "796e8e4c9e21e90b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/JavaScript/JavaScript.md",
+                "file": "Base/Computer Science/Computer Science.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JavaScript"
+              "title": "Computer Science"
             }
           },
           {
-            "id": "875cfd71703441cd",
+            "id": "f4399bd4db703e04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/JavaScript/Каррирование.md",
+                "file": "Base/Computer Science/UML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Каррирование"
-            }
-          },
-          {
-            "id": "5adfc9d0621bc160",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/JavaScript/prototype.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "prototype"
+              "title": "UML"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -204,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 345.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,13 +204,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "984ae28849c0dd8a",
+  "active": "f4399bd4db703e04",
   "lastOpenFiles": [
-    "Base/JavaScript/Каррирование.md",
-    "Base/JavaScript/JavaScript.md",
+    "Base/Computer Science/Computer Science.md",
+    "Base/Computer Science/UML.md",
+    "Base/Диаграмма действий, или диаграмма активностей, активити-диаграмма.md",
+    "Files/uml_sequence_siagram.webp",
+    "Files/uml_use_case_diagram.webp",
+    "Files/uml_action_diagram.webp",
+    "Files/uml_object_diagram.webp",
+    "Files/uml_component_diagram.webp",
+    "Files/uml_class_diagram.webp",
+    "Files/uml_class_diagram.png",
+    "Files/uml_basic elements_of_language.png",
+    "Files/uml_basic elements of language.png",
+    "README.md",
+    "Без названия.canvas",
+    "Templates/Шаблон.md",
     "Base/Interview.md",
     "Base/JavaScript/prototype.md",
+    "Base/JavaScript/Каррирование.md",
+    "Base/Computer Science/Prettier.md",
     "Base/Computer Science/Docker.md",
+    "Base/JavaScript/JavaScript.md",
     "Base/React/Рендеринг в React.md",
     "Base/JavaScript/this.md",
     "Base/JavaScript/Замыкание.md",
@@ -239,27 +241,10 @@
     "Base/Node.js/Nest.js.md",
     "Base/React/GitHub-pages.md",
     "Base/React/Компоненты.md",
-    "Base/Глобальный контекс.md",
-    "Base/Node.js/Prisma.md",
-    "Base/Node.js/Session.md",
-    "Base/Browser/Рендеринг в браузере.md",
-    "Base/Browser/Broadcast Channel API.md",
-    "Base/CSS/Flex-box.md",
-    "Base/Browser/Погружение.md",
     "Без названия",
     "Без названия 1.canvas",
-    "Без названия.canvas",
     "Base/Computer Science",
     "Files/jwt_2.png",
-    "Files/exception_filters_rest_1.png",
-    "Files/interceptors_rest_1.png",
-    "Files/guards_rest_1.png",
-    "Files/pipes_rest_1.png",
-    "Files/middleware_nest_1.png",
-    "Files/modules_rast_1.png",
-    "Files/controllers_rest_1.png",
-    "Files/contrilers_rest_1 1.png",
-    "Files/token_based.png",
     "Base/Git",
     "Base/Seo",
     "Base/Next.js",
