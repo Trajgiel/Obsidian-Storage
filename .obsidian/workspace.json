@@ -8,27 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6dd9c1cf39d10935",
+            "id": "c5999b1503db8392",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Interview.md",
+                "file": "Base/Computer Science/Computer Science.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interview"
+              "title": "Computer Science"
             }
           },
           {
-            "id": "796e8e4c9e21e90b",
+            "id": "903201b379ee38e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Base/Browser/Browser.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "9ac388e9140760c7",
+            "id": "132e830df25b015b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,51 +48,9 @@
               "icon": "lucide-file",
               "title": "Event Loop"
             }
-          },
-          {
-            "id": "7c6d2a1147802e44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/JavaScript/JavaScript.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JavaScript"
-            }
-          },
-          {
-            "id": "9c93da132eed289c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/JavaScript/Рекурсия.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Рекурсия"
-            }
-          },
-          {
-            "id": "f4399bd4db703e04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Computer Science/UML.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UML"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -246,20 +204,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c93da132eed289c",
+  "active": "132e830df25b015b",
   "lastOpenFiles": [
-    "Base/JavaScript/JavaScript.md",
-    "Base/JavaScript/Рекурсия.md",
-    "Base/Browser/Event Loop.md",
-    "Base/JavaScript/Очередь (Queue).md",
-    "Base/JavaScript/Каррирование.md",
-    "Base/JavaScript/Замыкание.md",
     "Base/Browser/Browser.md",
-    "Base/Interview.md",
-    "Base/Browser/Рендеринг в браузере.md",
+    "Base/Browser/Event Loop.md",
+    "Base/JavaScript/JavaScript.md",
     "Base/Computer Science/Computer Science.md",
-    "Base/Computer Science/UML.md",
-    "Base/Диаграмма действий, или диаграмма активностей, активити-диаграмма.md",
+    "Base/JavaScript/ECMAScript.md",
+    "Base/JavaScript/try...catch.md",
+    "Base/JavaScript/Структуры данных.md",
+    "Base/JavaScript/Стек вызовов (Stack).md",
+    "Base/JavaScript/Типы данных.md",
+    "Base/JavaScript/Массивы.md",
+    "Base/JavaScript/Ассоциативный массив.md",
+    "Base/JavaScript/Методы массива.md",
+    "Base/JavaScript/flat().md",
+    "Base/JavaScript/split() join().md",
+    "Base/JavaScript/sort().md",
+    "Base/JavaScript/reduce().md",
+    "Base/JavaScript/map().md",
+    "Base/JavaScript/find() findIndex().md",
+    "Base/JavaScript/some().md",
+    "Base/JavaScript/every().md",
+    "Base/JavaScript/filter().md",
+    "Base/JavaScript/unshift(...) shift().md",
+    "Base/JavaScript/push(...) pop().md",
+    "Base/JavaScript/Объекты.md",
+    "Base/JavaScript/«for…in».md",
+    "Base/JavaScript/number.md",
     "Files/uml_sequence_siagram.webp",
     "Files/uml_use_case_diagram.webp",
     "Files/uml_action_diagram.webp",
@@ -269,21 +241,7 @@
     "Files/uml_class_diagram.png",
     "Files/uml_basic elements_of_language.png",
     "Files/uml_basic elements of language.png",
-    "README.md",
     "Без названия.canvas",
-    "Templates/Шаблон.md",
-    "Base/JavaScript/prototype.md",
-    "Base/Computer Science/Prettier.md",
-    "Base/Computer Science/Docker.md",
-    "Base/React/Рендеринг в React.md",
-    "Base/JavaScript/this.md",
-    "Base/JavaScript/Структуры данных.md",
-    "Base/JavaScript/Типы данных.md",
-    "Base/JavaScript/Массивы.md",
-    "Base/JavaScript/Методы массива.md",
-    "Base/JavaScript/bind() call() apply().md",
-    "Base/JavaScript/Конструкторы.md",
-    "Base/JavaScript/Функции.md",
     "Без названия",
     "Без названия 1.canvas",
     "Base/Computer Science",
