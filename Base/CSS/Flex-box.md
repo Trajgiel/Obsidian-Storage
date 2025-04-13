@@ -43,4 +43,4 @@ Tags: #CSS #flex-box
 
 __
 ### Links
-[[CSS]]
+[[Base/CSS/CSS]]

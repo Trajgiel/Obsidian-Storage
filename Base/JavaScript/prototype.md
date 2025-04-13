@@ -53,5 +53,5 @@ Object.setPrototypeOf(obj, prototype);
 
 __
 ### Links
-[[JavaScript]]
+[[Base/JavaScript/JavaScript]]
 [prototype и __proto__ / JavaScript для собеседований](https://www.youtube.com/watch?v=b55hiUlhAzI)

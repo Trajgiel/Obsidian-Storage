@@ -87,4 +87,4 @@ Program
 
 ---
 ### Links
-[[JavaScript]]
+[[Base/JavaScript/JavaScript]]

@@ -124,4 +124,4 @@ man.age = 28; // set
 
 __
 ### Links
-[[JavaScript]]
+[[Base/JavaScript/JavaScript]]

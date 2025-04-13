@@ -36,4 +36,4 @@ index.ts
 
 __
 ### Links
-[[React]]
+[[Base/React/React]]

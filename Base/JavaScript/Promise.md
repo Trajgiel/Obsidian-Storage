@@ -151,4 +151,4 @@ function promisifyGet(url) {
 
 ---
 ### Links
-[[JavaScript]]
+[[Base/JavaScript/JavaScript]]

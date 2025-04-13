@@ -87,4 +87,4 @@ objB = null; // Удаляем ссылку на objB
 
 ---
 ### Links
-[[JavaScript]]
+[[Base/JavaScript/JavaScript]]

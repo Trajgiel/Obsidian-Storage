@@ -38,4 +38,4 @@ Tags: #TreeShaking
 
 ---
 ### Links
-[[JavaScript]]
+[[Base/JavaScript/JavaScript]]
