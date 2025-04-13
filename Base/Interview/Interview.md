@@ -6,6 +6,7 @@ Tags: #Interview
 - [[Base/Interview/HTML|HTML]]
 - [[Programming Paradigms]]
 - [[Base/Interview/JavaScript|JavaScript]]
+- [[Base/Interview/TypeScript|TypeScript]]
 - [[Base/Interview/React|React]]
 - [[Base/Interview/Node.js|Node.js]]
 
