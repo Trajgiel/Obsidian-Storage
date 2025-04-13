@@ -78,4 +78,4 @@ Tags: #memory
 
 ---
 ### Links
-[[Node.js]]
+[[Base/Node.js/Node.js]]
