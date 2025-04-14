@@ -10,7 +10,7 @@ Tags: #Interview #nodejs
 - [Monitoring](#Monitoring)
 - [Performance](#Performance)
 - [Deploy](#Deploy)
-- [Server configuration](#Server configuration)
+- [Server configuration](#Server%20configuration)
 - [NoSQL and SQL databases](#NoSQL%20and%20SQL%20databases)
 - [Ansible](#Ansible)
 - [Как вернуть файл клиенту](#Как%20вернуть%20файл%20клиенту)
