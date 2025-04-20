@@ -6,6 +6,9 @@ Tags: #Interview #JavaScript
 - [Event Loop](#Event%20Loop)
 - [Web Workers / Service Workers](#Web%20Workers%20/%20Service%20Workers)
 - [Object.freeze](#Object.freeze)
+- [Object.seal](#Object.seal)
+- [Object.preventExtensions](#Object.preventExtensions)
+- [Object.defineProperty](#Object.defineProperty)
 - [Context (Arrow Functions, bind / call / apply)](#Context%20(Arrow%20Functions,%20bind%20/%20call%20/%20apply))
 - [Promises and async/await](#Promises%20and%20async/await)
 - [Function Generator](#Function%20Generator)
@@ -57,23 +60,33 @@ JavaScript автоматически управляет памятью чере
 
 ### Object.freeze
 
-Делает объект неизменяемым:
+Делает объект полностью неизменяемым:
 
-- Запрещает добавление новых свойств.
-- Запрещает удаление существующих свойств.
-- Запрещает изменение значений существующих свойств.
+- Нельзя добавлять новые свойства.
+- Нельзя удалять существующие свойства.
+- Нельзя изменять значения существующих свойств.
 
 ---
 
 ### Object.seal
 
+- Нельзя добавлять новые свойства.
+- Нельзя удалять существующие свойства.
+- Можно изменять значения существующих свойств.
+
 ---
 
 ### Object.preventExtensions
 
+- Нельзя добавлять новые свойства.
+- Можно изменять значения существующих свойств.
+- Можно удалять существующие свойства.
+
 ---
 
 ### Object.defineProperty
+
+Позволяет точно определить или изменить одно свойство объекта, задавая его дескриптор
 
 ---
 
