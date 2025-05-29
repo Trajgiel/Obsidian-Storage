@@ -9,6 +9,7 @@ Tags: #Interview
 - [[Base/Interview/TypeScript|TypeScript]]
 - [[Base/Interview/React|React]]
 - [[Base/Interview/Node.js|Node.js]]
+- [[Kata(ы)]]
 
 ---
 
