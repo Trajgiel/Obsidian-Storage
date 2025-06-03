@@ -277,6 +277,13 @@ useEffect(() => {
 - Flexbox/Grid
 - Mobile-first подход
 
+```css
+@media (max-width: 768px) {
+  .menu {
+    flex-direction: column;
+  }
+}
+```
 ##### 20) **Какие есть методы, нативная?**
 
 - `Array.prototype.map`, `filter`, `reduce`, `forEach`, `find`, `some()`, `every()`
