@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Base/Interview/Interview.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "d5859573b3d60960",
+            "id": "87a9bf1586515687",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 398.5
   },
   "right": {
     "id": "7b5f879a9d0e5f0e",
@@ -205,17 +205,18 @@
   },
   "active": "f075490d1f7c28db",
   "lastOpenFiles": [
-    "Base/Interview/Programming Paradigms.md",
+    "Base/Interview/Kata(ы).md",
     "Base/Interview/Interview.md",
-    "Base/JavaScript/Замыкание.md",
+    "Base/Interview/Programming Paradigms.md",
+    "Base/Interview/React Developer (SSP Soft) 03.06.2025.md",
     "Base/WebComponents.md",
+    "Base/JavaScript/Замыкание.md",
     "Base/Interview/TypeScript.md",
     "Base/Interview/HTML.md",
     "Base/Interview/CSS.md",
     "Base/MobX.md",
     "Base/Seo/sitemap.xml.md",
     "Base/Git/WebStorm git.md",
-    "Base/Interview/Kata(ы).md",
     "Base/Git/Git.md",
     "MobX",
     "Base/Interview/Node.js.md",
@@ -231,7 +232,6 @@
     "Base/React/React.md",
     "Base/React/Рендеринг в React.md",
     "Base/JavaScript/this.md",
-    "Base/Browser/Event Loop.md",
     "Без названия.canvas",
     "Base/Interview",
     "Без названия 1.canvas",
