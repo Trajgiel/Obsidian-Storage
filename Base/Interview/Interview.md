@@ -14,6 +14,7 @@ Tags: #Interview
 
 ---
 
+[[Senior JS Developer (Cronit) 02.06.2025]]
 [[React Developer (SSP Soft) 03.06.2025]]
 
 ---
