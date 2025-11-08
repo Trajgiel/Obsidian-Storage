@@ -80,5 +80,5 @@ child.send({ hello: 'world' });
 
 ---
 ### Links
-[[Base/Node.js/Node.js]]
+[[Base/JavaScript/Node.js/Node.js]]
 [Все, что вам нужно знать о «child_process» в Node.js](https://www.youtube.com/watch?v=C1v4MXGhpcM)

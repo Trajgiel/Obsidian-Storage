@@ -62,4 +62,4 @@ navigation.navigate('Home', { screen: 'Jobs', {screen: 'Name' }})
 
 __
 ### Links
-[[Base/React/React]]
+[[Base/JavaScript/React/React]]

@@ -51,4 +51,4 @@ parentPort.on('message', (msg) => {
 
 ---
 ### Links
-[[Base/Node.js/Node.js]]
+[[Base/JavaScript/Node.js/Node.js]]

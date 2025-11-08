@@ -24,4 +24,4 @@ connect -
 ---
 __
 ### Links
-[[Base/React/React]]
+[[Base/JavaScript/React/React]]

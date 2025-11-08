@@ -117,4 +117,4 @@ base64UrlEncode(header) + "." + base64UrlEncode(payload)
 
 ---
 ### Links
-[[Base/Node.js/Node.js]]
+[[Base/JavaScript/Node.js/Node.js]]

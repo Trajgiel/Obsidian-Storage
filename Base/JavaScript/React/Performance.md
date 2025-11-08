@@ -17,4 +17,4 @@ export type EnumStatus = (typeof EnumStatus)[keyof typeof EnumStatus]
 
 ---
 ### Links
-[[React]]
+[[Base/JavaScript/React/React]]

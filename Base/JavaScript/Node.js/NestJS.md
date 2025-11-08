@@ -245,4 +245,4 @@ async findOne(@Param('id', ParseIntPipe) id: number) {
 
 ---
 ### Links
-[[Base/Node.js/Node.js]]
+[[Base/JavaScript/Node.js/Node.js]]

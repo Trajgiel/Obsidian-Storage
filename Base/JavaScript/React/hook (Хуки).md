@@ -36,4 +36,4 @@ Hook'и **нельзя** использовать в:
 
 __
 ### Links
-[[Base/React/React]]
+[[Base/JavaScript/React/React]]

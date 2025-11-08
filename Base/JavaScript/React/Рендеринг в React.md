@@ -74,4 +74,4 @@ Tags: #React #рендерингВReact
 
 ---
 ### Links
-[[Base/React/React]]
+[[Base/JavaScript/React/React]]

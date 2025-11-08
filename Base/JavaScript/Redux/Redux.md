@@ -53,4 +53,4 @@ export const store = legacy_createStore(rootReducer)
 ---
 __
 ### Links
-[[Base/React/React]]
+[[Base/JavaScript/React/React]]
