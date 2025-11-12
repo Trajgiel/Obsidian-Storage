@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "1dd02cd86bce4f5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Golang/Структуры.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Структуры"
+            }
+          },
+          {
             "id": "43629fd45772dc57",
             "type": "leaf",
             "state": {
@@ -222,17 +236,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43629fd45772dc57",
+  "active": "1dd02cd86bce4f5a",
   "lastOpenFiles": [
-    "Base/Golang/Слайсы.md",
     "Base/Golang/Golang.md",
-    "Base/Golang/Указатели.md",
+    "Base/Golang/Структуры.md",
     "Base/Golang/Строки.md",
+    "Base/Golang/Слайсы-0.canvas",
+    "Base/Golang/Слайсы.md",
+    "Base/Golang/Указатели.md",
     "Base/Golang/Оператор defer.md",
     "Base/Golang/Функции.md",
     "Base/Golang/init().md",
     "Base/Golang/Обработка ошибок.md",
-    "Base/Golang/Слайсы-0.canvas",
     "Base/Interview/Interview.md",
     "Base/Обработка.md",
     "Base/Golang/Область видимости.md",
@@ -253,7 +268,6 @@
     "Base/React/GitHub-pages.md",
     "Base/Computer Science/Patterns.md",
     "Base/TypeScript/TypeScript.md",
-    "Base/WebComponents.md",
     "Без названия 1.canvas",
     "MobX",
     "Base/Interview",
