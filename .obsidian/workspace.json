@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,10 +205,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "637803363b7db416",
+  "active": "1dd02cd86bce4f5a",
   "lastOpenFiles": [
-    "Base/Golang/Golang.md",
     "Base/Golang/map.md",
+    "Base/Golang/Golang.md",
     "Base/Golang/Структуры.md",
     "Base/Golang/Строки.md",
     "Base/Golang/Слайсы-0.canvas",
