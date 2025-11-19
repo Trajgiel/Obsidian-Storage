@@ -8,59 +8,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4d8a1d440b9268df",
+            "id": "191879bd381b5042",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Golang/Golang.md",
+                "file": "Base/Golang/Слайсы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Golang"
+              "title": "Слайсы"
             }
           },
           {
-            "id": "cf85897ad0dc6b77",
+            "id": "557b1076655ba08b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Golang/Interface.md",
+                "file": "Base/Golang/Maps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interface"
+              "title": "Maps"
             }
           },
           {
-            "id": "49572ffa0064f5de",
+            "id": "091cbdac9206886c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Base/Golang/Приведение типа.md",
-                "mode": "source",
-                "source": false
+                "file": "Base/Golang/Maps-0.canvas",
+                "viewState": {
+                  "x": -223.85955587889418,
+                  "y": -312.0881975231318,
+                  "zoom": 0.4210611979166668
+                }
               },
-              "icon": "lucide-file",
-              "title": "Приведение типа"
-            }
-          },
-          {
-            "id": "637803363b7db416",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Golang/map.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "map"
+              "icon": "lucide-layout-dashboard",
+              "title": "Maps-0"
             }
           }
         ],
@@ -219,17 +208,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf85897ad0dc6b77",
+  "active": "557b1076655ba08b",
   "lastOpenFiles": [
+    "Base/Golang/Слайсы.md",
     "Base/Golang/Golang.md",
-    "Base/Golang/Interface.md",
+    "Base/Golang/Maps-0.canvas",
+    "Base/Golang/Каналы-0.canvas",
+    "Base/Golang/Maps.md",
+    "Base/Golang/Каналы.md",
+    "Base/Golang/Goroutine.md",
+    "Files/0 Channels.png",
+    "Base/Golang/Concurrency, Parallelism.md",
+    "Files/Pasted image 20251116204735.png",
+    "Files/Pasted image 20251116204653.png",
+    "Base/Golang/Слайсы-0.canvas",
+    "Files/0 Maps.png",
     "Base/Golang/Приведение типа.md",
-    "Base/Golang/map.md",
+    "Base/Golang/maps-0.png",
+    "Base/Golang/Interface.md",
     "Base/nterface.md",
     "Base/Golang/Структуры.md",
     "Base/Golang/Строки.md",
-    "Base/Golang/Слайсы-0.canvas",
-    "Base/Golang/Слайсы.md",
     "Base/Golang/Указатели.md",
     "Base/Golang/Оператор defer.md",
     "Base/Golang/Функции.md",
@@ -246,10 +245,6 @@
     "Base/JavaScript/JavaScript.md",
     "Base/Angular/Angular.md",
     "Base/Angular/Install Angular.md",
-    "Base/React/Install React.md",
-    "Base/React/React.md",
-    "Base/React/Библиотеки.md",
-    "Base/Node.js/NestJS.md",
     "Base/Angular",
     "Без названия 1.canvas",
     "MobX",
@@ -257,11 +252,6 @@
     "Files/childProcess1.png",
     "Files/workerThreads1.png",
     "Files/uml_sequence_siagram.webp",
-    "Files/uml_use_case_diagram.webp",
-    "Files/uml_action_diagram.webp",
-    "Files/uml_object_diagram.webp",
-    "Files/uml_component_diagram.webp",
-    "Files/uml_class_diagram.webp",
     "Base/Computer Science",
     "Base/Git",
     "Base/Seo",
