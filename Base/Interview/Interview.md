@@ -1,11 +1,18 @@
 2025-04-12 23:03
 Tags: #Interview
 
+- [[Programming Paradigms]]
+
+---
+
+- [[Base/Interview/Golang|Golang]]
+
+---
+
 - [Самопрезентация](#Самопрезентация)
 - [Оптимизация приложения](#Оптимизация%20приложения)
-- [[Base/Interview/CSS|CSS]]
+-  [[Base/Interview/CSS|CSS]]
 - [[Base/Interview/HTML|HTML]]
-- [[Programming Paradigms]]
 - [[Base/Interview/JavaScript|JavaScript]]
 - [[Base/Interview/TypeScript|TypeScript]]
 - [[Base/Interview/React|React]]

@@ -13,22 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Golang/Слайсы.md",
+                "file": "Base/Golang/Golang.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Слайсы"
+              "title": "Golang"
             }
           },
           {
-            "id": "557b1076655ba08b",
+            "id": "0a2f12115cb032fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Base/Golang/Maps.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -36,24 +36,35 @@
             }
           },
           {
-            "id": "091cbdac9206886c",
+            "id": "e6fa7e54b36b2633",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Base/Golang/Maps-0.canvas",
-                "viewState": {
-                  "x": -223.85955587889418,
-                  "y": -312.0881975231318,
-                  "zoom": 0.4210611979166668
-                }
+                "file": "Base/Interview/Interview.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Maps-0"
+              "icon": "lucide-file",
+              "title": "Interview"
+            }
+          },
+          {
+            "id": "8750fd3344e8e240",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Interview/Golang.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Golang"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -208,13 +219,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "557b1076655ba08b",
+  "active": "8750fd3344e8e240",
   "lastOpenFiles": [
-    "Base/Golang/Слайсы.md",
+    "Base/Interview/Interview.md",
+    "Base/Interview/Golang.md",
+    "Base/Golang/Maps.md",
+    "Base/Interview/JavaScript.md",
     "Base/Golang/Golang.md",
+    "Base/Golang/Слайсы.md",
+    "Base/Interview/React.md",
+    "Base/Interview/HTML.md",
     "Base/Golang/Maps-0.canvas",
     "Base/Golang/Каналы-0.canvas",
-    "Base/Golang/Maps.md",
     "Base/Golang/Каналы.md",
     "Base/Golang/Goroutine.md",
     "Files/0 Channels.png",
@@ -234,7 +250,6 @@
     "Base/Golang/Функции.md",
     "Base/Golang/init().md",
     "Base/Golang/Обработка ошибок.md",
-    "Base/Interview/Interview.md",
     "Base/Обработка.md",
     "Base/Golang/Область видимости.md",
     "Base/Golang/Форматированный вывод.md",
@@ -242,9 +257,6 @@
     "Base/Golang/Массивы.md",
     "Files/0 Slices.png",
     "Base/Golang/0 Slices.png",
-    "Base/JavaScript/JavaScript.md",
-    "Base/Angular/Angular.md",
-    "Base/Angular/Install Angular.md",
     "Base/Angular",
     "Без названия 1.canvas",
     "MobX",

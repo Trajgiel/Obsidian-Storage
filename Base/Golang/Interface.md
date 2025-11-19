@@ -63,4 +63,4 @@ type Stringer interface {
 
 ---
 ### Links
-[[Golang]]
+[[Base/Golang/Golang]]

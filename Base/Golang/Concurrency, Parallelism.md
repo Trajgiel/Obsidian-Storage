@@ -9,4 +9,4 @@ Tags: #golang
 
 ---
 ### Links
-[[Golang]]
+[[Base/Golang/Golang]]

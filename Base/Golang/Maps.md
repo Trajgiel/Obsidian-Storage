@@ -69,4 +69,4 @@ fmt.Println(m) // map[1:5]
 
 ---
 ### Links
-[[Golang]]
+[[Base/Golang/Golang]]

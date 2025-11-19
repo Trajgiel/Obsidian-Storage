@@ -29,4 +29,4 @@ runtime.GOMAXPROCS(4)
 
 ---
 ### Links
-[[Golang]]
+[[Base/Golang/Golang]]

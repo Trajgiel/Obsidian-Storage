@@ -51,4 +51,4 @@ a = 7
 
 ---
 ### Links
-[[Golang]]
+[[Base/Golang/Golang]]
