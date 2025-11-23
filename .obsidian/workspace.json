@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Base/Interview/Golang.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -258,10 +258,12 @@
   },
   "active": "8750fd3344e8e240",
   "lastOpenFiles": [
-    "Base/Interview/Interview.md",
-    "Base/Interview/Golang.md",
-    "Base/Golang/Каналы-0.canvas",
     "Base/Golang/Каналы.md",
+    "Base/Interview/Golang.md",
+    "Base/Interview/Interview.md",
+    "Files/Pasted image 20251123182632.png",
+    "Files/Pasted image 20251122200402.png",
+    "Base/Golang/Каналы-0.canvas",
     "Base/Golang/Golang.md",
     "Base/Golang/Слайсы.md",
     "Base/Golang/Слайсы-0.canvas",
@@ -298,8 +300,6 @@
     "MobX",
     "Base/Interview",
     "Files/childProcess1.png",
-    "Files/workerThreads1.png",
-    "Files/uml_sequence_siagram.webp",
     "Base/Computer Science",
     "Base/Git",
     "Base/Seo",
