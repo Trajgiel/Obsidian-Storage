@@ -8,27 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7cd5a050f2530d20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Interview/Interview.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Interview"
-            }
-          },
-          {
             "id": "8750fd3344e8e240",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Base/Interview/Golang.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -36,72 +22,34 @@
             }
           },
           {
-            "id": "191879bd381b5042",
+            "id": "7199fb23571fd2a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Golang/Каналы.md",
-                "mode": "source",
+                "file": "Base/Golang/Структуры.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Каналы"
+              "title": "Структуры"
             }
           },
           {
-            "id": "2eb18f4428bc31e2",
+            "id": "6c2095862bc8ec26",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Base/Golang/Каналы-0.canvas",
-                "viewState": {
-                  "x": -2442.833180072744,
-                  "y": 323.25469868164896,
-                  "zoom": -0.783762551718689
-                }
+                "file": "Base/Golang/Interface.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Каналы-0"
-            }
-          },
-          {
-            "id": "b7c5bee596943052",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Base/Golang/Слайсы-0.canvas",
-                "viewState": {
-                  "x": 4123.482670023564,
-                  "y": -1420.4076022236954,
-                  "zoom": -0.9560058593749998
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Слайсы-0"
-            }
-          },
-          {
-            "id": "167357e44b5497e8",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Base/Golang/Maps-0.canvas",
-                "viewState": {
-                  "x": -175.68048866324017,
-                  "y": -6.750366856694434,
-                  "zoom": 0.8551961263020834
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Maps-0"
+              "icon": "lucide-file",
+              "title": "Interface"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -258,9 +206,13 @@
   },
   "active": "8750fd3344e8e240",
   "lastOpenFiles": [
-    "Base/Golang/Каналы.md",
+    "Base/Могут ли методы быть определены для не-структурных типов? Каковы ограничения?.md",
     "Base/Interview/Golang.md",
+    "Base/Golang/Структуры.md",
+    "Base/Golang/Interface.md",
     "Base/Interview/Interview.md",
+    "Base/Golang/Каналы.md",
+    "Base/Golang/Массивы.md",
     "Files/Pasted image 20251123182632.png",
     "Files/Pasted image 20251122200402.png",
     "Base/Golang/Каналы-0.canvas",
@@ -282,9 +234,7 @@
     "Files/0 Maps.png",
     "Base/Golang/Приведение типа.md",
     "Base/Golang/maps-0.png",
-    "Base/Golang/Interface.md",
     "Base/nterface.md",
-    "Base/Golang/Структуры.md",
     "Base/Golang/Строки.md",
     "Base/Golang/Указатели.md",
     "Base/Golang/Оператор defer.md",
@@ -292,7 +242,6 @@
     "Base/Golang/init().md",
     "Base/Golang/Обработка ошибок.md",
     "Base/Обработка.md",
-    "Base/Golang/Область видимости.md",
     "Files/0 Slices.png",
     "Base/Golang/0 Slices.png",
     "Base/Angular",
