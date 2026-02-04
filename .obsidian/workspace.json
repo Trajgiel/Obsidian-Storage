@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Base/Interview/Golang/Golang.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -207,13 +207,13 @@
   },
   "active": "bdc296956510db65",
   "lastOpenFiles": [
-    "Base/Interview/Golang/Golang.md",
+    "Base/Interview/Golang/ООП.md",
     "Base/Interview/Interview.md",
-    "Base/Interview/Golang/Channels.md",
     "Base/Interview/Golang/Interface.md",
+    "Base/Interview/Golang/Golang.md",
+    "Base/Interview/Golang/Channels.md",
     "Base/Interview/Golang/Map.md",
     "Base/Interview/Golang/Arrays & Slices.md",
-    "Base/Interview/Golang/ООП.md",
     "Base/Golang/Interface.md",
     "Base/Interview/HTML.md",
     "Base/Interview/Golang",
