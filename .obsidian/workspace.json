@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Base/Interview/Interview.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -207,10 +207,10 @@
   },
   "active": "bdc296956510db65",
   "lastOpenFiles": [
-    "Base/Interview/Golang/ООП.md",
     "Base/Interview/Interview.md",
     "Base/Interview/Golang/Interface.md",
     "Base/Interview/Golang/Golang.md",
+    "Base/Interview/Golang/ООП.md",
     "Base/Interview/Golang/Channels.md",
     "Base/Interview/Golang/Map.md",
     "Base/Interview/Golang/Arrays & Slices.md",
