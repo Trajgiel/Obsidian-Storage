@@ -13,22 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Interview/Interview.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Interview"
-            }
-          },
-          {
-            "id": "49b551463f189d99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Base/Interview/Golang/Golang.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -36,13 +22,27 @@
             }
           },
           {
-            "id": "bdc296956510db65",
+            "id": "a90ebaa5aaf2ef7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Interview/Golang/Ошибки, panic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ошибки, panic"
+            }
+          },
+          {
+            "id": "bf9c64d2271b761d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Base/Interview/Golang/Interface.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,11 +205,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bdc296956510db65",
+  "active": "a90ebaa5aaf2ef7f",
   "lastOpenFiles": [
-    "Base/Interview/Interview.md",
-    "Base/Interview/Golang/Interface.md",
     "Base/Interview/Golang/Golang.md",
+    "Base/Interview/Golang/Ошибки, panic.md",
+    "Base/Interview/Golang/Interface.md",
+    "Base/Interview/Interview.md",
     "Base/Interview/Golang/ООП.md",
     "Base/Interview/Golang/Channels.md",
     "Base/Interview/Golang/Map.md",
@@ -243,7 +244,6 @@
     "Base/Golang/Приведение типа.md",
     "Base/Golang/maps-0.png",
     "Base/nterface.md",
-    "Base/Golang/Строки.md",
     "Files/0 Slices.png",
     "Base/Golang/0 Slices.png",
     "Base/Angular",

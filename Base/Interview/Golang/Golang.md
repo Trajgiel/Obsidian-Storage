@@ -7,6 +7,7 @@ Tags: #Interview #golang
 
 - [[ООП]]
 - [[Base/Interview/Golang/Interface|Interface]]
+- [[Ошибки, panic]]
 
 ---
 ### Links
