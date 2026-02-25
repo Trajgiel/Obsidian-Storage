@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cf1bf83e281296d0",
+            "id": "6746b220561763b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,21 +22,49 @@
             }
           },
           {
-            "id": "6746b220561763b5",
+            "id": "16654cbdd522ac90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Computer Science/Docker.md",
+                "file": "Base/Interview/Golang/Interface.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker"
+              "title": "Interface"
+            }
+          },
+          {
+            "id": "f04bd40b8b5365af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Golang/Golang.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Golang"
+            }
+          },
+          {
+            "id": "26ccd4507af96e05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Golang/Планировщик.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Планировщик"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -191,13 +219,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6746b220561763b5",
+  "active": "26ccd4507af96e05",
   "lastOpenFiles": [
-    "Base/Computer Science/Homebrew.md",
-    "Base/Computer Science/Docker.md",
+    "Base/Golang/Golang.md",
+    "Base/Golang/Планировщик.md",
+    "Files/go-scheduler.png",
+    "Base/Interview/Golang/Interface.md",
     "Base/Interview/Golang/Golang.md",
     "Base/Interview/Golang/Ошибки, panic.md",
-    "Base/Interview/Golang/Interface.md",
+    "Base/Computer Science/Docker.md",
+    "Base/Computer Science/Homebrew.md",
     "Base/Interview/Interview.md",
     "Base/Interview/Golang/ООП.md",
     "Base/Interview/Golang/Channels.md",
@@ -214,7 +245,6 @@
     "Files/Pasted image 20251123182632.png",
     "Files/Pasted image 20251122200402.png",
     "Base/Golang/Каналы-0.canvas",
-    "Base/Golang/Golang.md",
     "Base/Golang/Слайсы.md",
     "Base/Golang/Слайсы-0.canvas",
     "Base/Что произойдет при конкурентной записи в map?.md",
@@ -223,9 +253,7 @@
     "Base/Golang/Maps.md",
     "Base/Interview/JavaScript.md",
     "Base/Interview/React.md",
-    "Base/Golang/Goroutine.md",
     "Files/0 Channels.png",
-    "Base/Golang/Concurrency, Parallelism.md",
     "Files/Pasted image 20251116204735.png",
     "Files/Pasted image 20251116204653.png",
     "Files/0 Maps.png",
@@ -236,7 +264,6 @@
     "Без названия 1.canvas",
     "MobX",
     "Base/Interview",
-    "Files/childProcess1.png",
     "Base/Computer Science",
     "Base/Git",
     "Base/Seo",
