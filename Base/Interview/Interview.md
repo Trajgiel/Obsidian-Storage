@@ -5,7 +5,7 @@ Tags: #Interview
 
 ---
 
-- [[Base/Interview/Golang/Golang|Golang]]
+- [[Golang - Interview]]
 
 ---
 

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Golang/Garbage Collector.md",
-                "mode": "source",
+                "file": "Base/Golang/Graceful Shutdown.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Garbage Collector"
+              "title": "Graceful Shutdown"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Планировщик"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,18 +204,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f04bd40b8b5365af",
+  "active": "6746b220561763b5",
   "lastOpenFiles": [
+    "Base/Golang/Graceful Shutdown.md",
     "Base/Golang/Golang.md",
-    "Base/Golang/Garbage Collector.md",
-    "Base/Interview/Golang/Golang.md",
-    "Base/Interview/Golang/Interface.md",
     "Base/Golang/Планировщик.md",
+    "Base/Interview/Interview.md",
+    "Base/Interview/Golang/Golang - Interview.md",
+    "Base/Golang/Garbage Collector.md",
+    "Base/Interview/Golang/Interface.md",
     "Files/go-scheduler.png",
     "Base/Interview/Golang/Ошибки, panic.md",
     "Base/Computer Science/Docker.md",
     "Base/Computer Science/Homebrew.md",
-    "Base/Interview/Interview.md",
     "Base/Interview/Golang/ООП.md",
     "Base/Interview/Golang/Channels.md",
     "Base/Interview/Golang/Map.md",
@@ -239,7 +239,6 @@
     "Base/Interview/Programming Paradigms.md",
     "Base/Golang/Maps.md",
     "Base/Interview/JavaScript.md",
-    "Base/Interview/React.md",
     "Files/0 Channels.png",
     "Files/Pasted image 20251116204735.png",
     "Files/Pasted image 20251116204653.png",

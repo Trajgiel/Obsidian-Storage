@@ -129,4 +129,4 @@ map в Go потокобезопасной не является и требуе
 
 ---
 ### Links
-[[Base/Interview/Golang/Golang|Golang]]
+[[Golang | Interview|Golang | Interview]]

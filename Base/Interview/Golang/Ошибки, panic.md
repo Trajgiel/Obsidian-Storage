@@ -539,4 +539,4 @@ func main() {
 
 ---
 ### Links
-[[Base/Interview/Golang/Golang|Golang]]
+[[Golang | Interview|Golang | Interview]]

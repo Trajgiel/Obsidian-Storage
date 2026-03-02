@@ -68,4 +68,4 @@ mySlice := []int{1, 2, 3}
 
 ---
 ### Links
-[[Base/Interview/Golang/Golang|Golang]]
+[[Golang | Interview|Golang | Interview]]
